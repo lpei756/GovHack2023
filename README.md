@@ -45,6 +45,8 @@ The website is deployed and accessible at: https://dynamic-syrniki-be38bc.netlif
 
 1. Link for design system, wireframe, database schema : https://www.figma.com/file/6yZOJHo2CPsOWb8Ea2Iw71/GovHack-2023?type=design&node-id=0-1&mode=design
 
+2. Link for our project on GovHack : https://hackerspace.govhack.org/projects/citizen_council_connect
+
 ## Customization
 
 ### Replace the icons
