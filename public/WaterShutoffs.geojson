@@ -1,0 +1,3285 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61954918,
+                    -43.46205255
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 09:19am",
+                "Address": "18 O'Neill Avenue, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 2,
+                "popup": "18 O'Neill Avenue, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.58152845,
+                    -43.50498965
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 09:42am",
+                "Address": "178 Greers Road, Christchurch, 8053",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "178 Greers Road, Christchurch, 8053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61954918,
+                    -43.46205255
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 09:38am",
+                "Address": "18 O'Neill Avenue, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 2,
+                "popup": "18 O'Neill Avenue, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.58152845,
+                    -43.50498965
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 09:43am",
+                "Address": "178 Greers Road, Christchurch, 8053",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "178 Greers Road, Christchurch, 8053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.58564631,
+                    -43.49912835
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 10:23am",
+                "Address": "294 Wairakei rd",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "294 Wairakei rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61935397,
+                    -43.56145325
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 10:38am",
+                "Address": "69 Roberta Drive, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Planned",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 17,
+                "popup": "69 Roberta Drive, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62854917,
+                    -43.5778436
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 10:43am",
+                "Address": "114 Hackthorne Road, Christchurch, 8022",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "114 Hackthorne Road, Christchurch, 8022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62854917,
+                    -43.5778436
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 10:44am",
+                "Address": "114 Hackthorne Road, Christchurch, 8022",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "114 Hackthorne Road, Christchurch, 8022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62647842,
+                    -43.57483181
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 10:46am",
+                "Address": "19 Gwynfa Ave, Christchurch, 8022",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 10,
+                "popup": "19 Gwynfa Ave, Christchurch, 8022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.76353687,
+                    -43.57172477
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 11:00am",
+                "Address": "7 Hardwicke Street, Christchurch, 8081",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 5,
+                "popup": "7 Hardwicke Street, Christchurch, 8081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59207565,
+                    -43.56176694
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 11:05am",
+                "Address": "67 Redgrave Street, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "67 Redgrave Street, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59207565,
+                    -43.56176694
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 11:06am",
+                "Address": "67 Redgrave Street, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "67 Redgrave Street, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.76353687,
+                    -43.57172477
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 11:08am",
+                "Address": "7 Hardwicke Street, Christchurch, 8081",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 5,
+                "popup": "7 Hardwicke Street, Christchurch, 8081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.58564631,
+                    -43.49912835
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 11:27am",
+                "Address": "294 Wairakei rd",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "294 Wairakei rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61935397,
+                    -43.56145325
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 11:28am",
+                "Address": "69 Roberta Drive, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Planned",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 17,
+                "popup": "69 Roberta Drive, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.70084803,
+                    -43.57224306
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 12:43pm",
+                "Address": "64 Laing Crescent, Christchurch, 8022",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 10,
+                "popup": "64 Laing Crescent, Christchurch, 8022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62647842,
+                    -43.57483181
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 12:43pm",
+                "Address": "19 Gwynfa Ave, Christchurch, 8022",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 10,
+                "popup": "19 Gwynfa Ave, Christchurch, 8022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.70084803,
+                    -43.57224306
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 12:45pm",
+                "Address": "64 Laing Crescent, Christchurch, 8022",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 10,
+                "popup": "64 Laing Crescent, Christchurch, 8022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61545982,
+                    -43.56375505
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 01:11pm",
+                "Address": "3 Roberta Drive, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Planned",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 9,
+                "popup": "3 Roberta Drive, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61545982,
+                    -43.56375505
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 01:12pm",
+                "Address": "3 Roberta Drive, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Planned",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 9,
+                "popup": "3 Roberta Drive, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.60640879,
+                    -43.58123576
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 01:13pm",
+                "Address": "67 Ravensdale Rise, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 5,
+                "popup": "67 Ravensdale Rise, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.60640879,
+                    -43.58123576
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 01:15pm",
+                "Address": "67 Ravensdale Rise, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 5,
+                "popup": "67 Ravensdale Rise, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68326858,
+                    -43.55567548
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 01:29pm",
+                "Address": "69 Rutherford St, Christchurch, 8023",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 2,
+                "popup": "69 Rutherford St, Christchurch, 8023"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68326858,
+                    -43.55567548
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 01:31pm",
+                "Address": "69 Rutherford St, Christchurch, 8023",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 2,
+                "popup": "69 Rutherford St, Christchurch, 8023"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5612688,
+                    -43.57287062
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 01:49pm",
+                "Address": "16 Pethig Place, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "16 Pethig Place, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5612688,
+                    -43.57287062
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 02:00pm",
+                "Address": "16 Pethig Place, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "16 Pethig Place, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63541386,
+                    -43.56849845
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 02:09pm",
+                "Address": "6 Centaurus Road, Christchurch, 8022",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 6,
+                "popup": "6 Centaurus Road, Christchurch, 8022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5612688,
+                    -43.57287062
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 02:14pm",
+                "Address": "16 Pethig Place, Halswell,",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "16 Pethig Place, Halswell,"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63157311,
+                    -43.52184712
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 02:20pm",
+                "Address": "14 Peacock Street, Christchurch, 8013",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 10,
+                "popup": "14 Peacock Street, Christchurch, 8013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63541386,
+                    -43.56849845
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 02:34pm",
+                "Address": "6 Centaurus Road, Christchurch, 8022",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 6,
+                "popup": "6 Centaurus Road, Christchurch, 8022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5612688,
+                    -43.57287062
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 02:39pm",
+                "Address": "16 Pethig Place, Halswell,",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "16 Pethig Place, Halswell,"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66816087,
+                    -43.53949212
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 03:07pm",
+                "Address": "60 Aldwins Rd, Christchurch, 8062",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 5,
+                "popup": "60 Aldwins Rd, Christchurch, 8062"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63157311,
+                    -43.52184712
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 03:17pm",
+                "Address": "14 Peacock Street, Christchurch, 8013",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 10,
+                "popup": "14 Peacock Street, Christchurch, 8013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66816087,
+                    -43.53949212
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 04:10pm",
+                "Address": "60 Aldwins Rd, Christchurch, 8062",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 5,
+                "popup": "60 Aldwins Rd, Christchurch, 8062"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.60574192,
+                    -43.56145656
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 04:19pm",
+                "Address": "132A Hoon Hay Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "132A Hoon Hay Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59948668,
+                    -43.53346473
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 04:42pm",
+                "Address": "52 Division St, Christchurch, 8041",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 40,
+                "popup": "52 Division St, Christchurch, 8041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59948668,
+                    -43.53346473
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 04:50pm",
+                "Address": "52 Division St, Christchurch, 8041",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 40,
+                "popup": "52 Division St, Christchurch, 8041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68040389,
+                    -43.52216597
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 05:42pm",
+                "Address": "57 Dunarnan Street, Christchurch, 8061",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 10,
+                "popup": "57 Dunarnan Street, Christchurch, 8061"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63033082,
+                    -43.52068568
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 05:44pm",
+                "Address": "71 Bealey Ave, Christchurch, 8013",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 42,
+                "popup": "71 Bealey Ave, Christchurch, 8013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.60574192,
+                    -43.56145656
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 05:55pm",
+                "Address": "132A Hoon Hay Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "132A Hoon Hay Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68040389,
+                    -43.52216597
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 06:34pm",
+                "Address": "57 Dunarnan Street, Christchurch, 8061",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 10,
+                "popup": "57 Dunarnan Street, Christchurch, 8061"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.60158458,
+                    -43.5808514
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 06:52pm",
+                "Address": "2A Lulworth Lane, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "2A Lulworth Lane, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.60158458,
+                    -43.5808514
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 06:54pm",
+                "Address": "2A Lulworth Lane, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "2A Lulworth Lane, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63033082,
+                    -43.52068568
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 08:19pm",
+                "Address": "71 Bealey Ave, Christchurch, 8013",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 42,
+                "popup": "71 Bealey Ave, Christchurch, 8013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62162345,
+                    -43.54384182
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 08:23pm",
+                "Address": "387A Selwyn Street, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 20,
+                "popup": "387A Selwyn Street, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62162345,
+                    -43.54384182
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 08:25pm",
+                "Address": "387A Selwyn Street, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 20,
+                "popup": "387A Selwyn Street, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61366215,
+                    -43.57411009
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 09:44pm",
+                "Address": "170 Cashmere Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 20,
+                "popup": "170 Cashmere Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61366215,
+                    -43.57411009
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "14/08 10:16pm",
+                "Address": "170 Cashmere Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 20,
+                "popup": "170 Cashmere Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62616519,
+                    -43.56352907
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 08:35am",
+                "Address": "82 Barrington St, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "82 Barrington St, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.71350161,
+                    -43.6334103
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 08:39am",
+                "Address": "12 Ohinehau Ln, Governors Bay, 8971",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 2,
+                "popup": "12 Ohinehau Ln, Governors Bay, 8971"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62616519,
+                    -43.56352907
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 08:41am",
+                "Address": "82 Barrington St, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "82 Barrington St, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.71350161,
+                    -43.6334103
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 09:37am",
+                "Address": "12 Ohinehau Ln, Governors Bay, 8971",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 2,
+                "popup": "12 Ohinehau Ln, Governors Bay, 8971"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57097027,
+                    -43.58245436
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 09:55am",
+                "Address": "23 Edward Stafford Avenue, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Planned",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "23 Edward Stafford Avenue, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57097027,
+                    -43.58245436
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 09:56am",
+                "Address": "23 Edward Stafford Avenue, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Planned",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "23 Edward Stafford Avenue, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59716523,
+                    -43.56212053
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 11:27am",
+                "Address": "50 Downing Street, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "50 Downing Street, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59716523,
+                    -43.56212053
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 11:27am",
+                "Address": "50 Downing Street, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "50 Downing Street, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.47252725,
+                    -43.55421372
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 11:47am",
+                "Address": "12 Railway Terrace,Templeton , 8042",
+                "IsActive": 0,
+                "ShutdownType": "Planned",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 10,
+                "popup": "12 Railway Terrace,Templeton , 8042"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.47252725,
+                    -43.55421372
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 11:50am",
+                "Address": "12 Railway Terrace,Templeton , 8042",
+                "IsActive": 0,
+                "ShutdownType": "Planned",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 10,
+                "popup": "12 Railway Terrace,Templeton , 8042"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.71280297,
+                    -43.56547778
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 01:04pm",
+                "Address": "6 Brigid Place, Christchurch, 8081",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 10,
+                "popup": "6 Brigid Place, Christchurch, 8081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57680785,
+                    -43.57487762
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 01:10pm",
+                "Address": "60 Milns Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "60 Milns Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.71280297,
+                    -43.56547778
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 01:06pm",
+                "Address": "6 Brigid Place, Christchurch, 8081",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 10,
+                "popup": "6 Brigid Place, Christchurch, 8081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57680785,
+                    -43.57487762
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 01:11pm",
+                "Address": "60 Milns Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "60 Milns Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57548736,
+                    -43.51507572
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 01:46pm",
+                "Address": "3 Swanleigh Place, Christchurch, 8041",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 50,
+                "popup": "3 Swanleigh Place, Christchurch, 8041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57548736,
+                    -43.51507572
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 02:37pm",
+                "Address": "3 Swanleigh Place, Christchurch, 8041",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 50,
+                "popup": "3 Swanleigh Place, Christchurch, 8041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59627926,
+                    -43.47826504
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 02:48pm",
+                "Address": "158  Highsted Road, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 15,
+                "popup": "158  Highsted Road, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59627926,
+                    -43.47826504
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 03:00pm",
+                "Address": "158  Highsted Road, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 15,
+                "popup": "158  Highsted Road, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64729806,
+                    -43.51264937
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 03:04pm",
+                "Address": "167A Geraldine Street, Christchurch, 8013",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 30,
+                "popup": "167A Geraldine Street, Christchurch, 8013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64729806,
+                    -43.51264937
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 03:05pm",
+                "Address": "167A Geraldine Street, Christchurch, 8013",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 30,
+                "popup": "167A Geraldine Street, Christchurch, 8013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57942677,
+                    -43.57656419
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 03:18pm",
+                "Address": "88 Milns Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 15,
+                "popup": "88 Milns Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57942677,
+                    -43.57656419
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 03:20pm",
+                "Address": "88 Milns Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 15,
+                "popup": "88 Milns Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.58324347,
+                    -43.47762747
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 05:47pm",
+                "Address": "361 Sawyers Arms Road, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "361 Sawyers Arms Road, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.58324347,
+                    -43.47762747
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 05:48pm",
+                "Address": "361 Sawyers Arms Road, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "361 Sawyers Arms Road, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6035208,
+                    -43.5506908
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 07:40pm",
+                "Address": "23 Blakehall Place, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "23 Blakehall Place, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6035208,
+                    -43.5506908
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 07:45pm",
+                "Address": "23 Blakehall Place, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "23 Blakehall Place, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68303028,
+                    -43.54915624
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 10:08pm",
+                "Address": "689 Ferry Rd, Christchurch, 8023",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "689 Ferry Rd, Christchurch, 8023"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68303028,
+                    -43.54915624
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "15/08 10:43pm",
+                "Address": "689 Ferry Rd, Christchurch, 8023",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "689 Ferry Rd, Christchurch, 8023"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64140214,
+                    -43.50945754
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 12:44am",
+                "Address": "48 Oxley Avenue, Christchurch, 8014",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 10,
+                "popup": "48 Oxley Avenue, Christchurch, 8014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64140214,
+                    -43.50945754
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 03:49am",
+                "Address": "48 Oxley Avenue, Christchurch, 8014",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 10,
+                "popup": "48 Oxley Avenue, Christchurch, 8014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56039885,
+                    -43.59133193
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 05:12am",
+                "Address": "28 Kirirua Avenue, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 5,
+                "popup": "28 Kirirua Avenue, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56039885,
+                    -43.59133193
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 06:19am",
+                "Address": "28 Kirirua Avenue, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 5,
+                "popup": "28 Kirirua Avenue, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56369779,
+                    -43.5822055
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 08:29am",
+                "Address": "78 Halswell Junction Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "78 Halswell Junction Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56369779,
+                    -43.5822055
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 08:30am",
+                "Address": "78 Halswell Junction Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "78 Halswell Junction Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59629636,
+                    -43.54629986
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 10:08am",
+                "Address": "67 Wrights Road, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 5,
+                "popup": "67 Wrights Road, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59629636,
+                    -43.54629986
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 10:09am",
+                "Address": "67 Wrights Road, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 5,
+                "popup": "67 Wrights Road, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.58432516,
+                    -43.55655792
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 10:48am",
+                "Address": "21 Charles Upham Avenue, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "21 Charles Upham Avenue, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57024322,
+                    -43.58650278
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 10:58am",
+                "Address": "460 Halswell Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "3rd Party",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 100,
+                "popup": "460 Halswell Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64370097,
+                    -43.50795646
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 11:07am",
+                "Address": "23 Warrington Street, Christchurch, 8013",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 16,
+                "popup": "23 Warrington Street, Christchurch, 8013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64370097,
+                    -43.50795646
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 11:08am",
+                "Address": "23 Warrington Street, Christchurch, 8013",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 16,
+                "popup": "23 Warrington Street, Christchurch, 8013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.58432516,
+                    -43.55655792
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 11:22am",
+                "Address": "21 Charles Upham Avenue, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "21 Charles Upham Avenue, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61424243,
+                    -43.45426711
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 11:33am",
+                "Address": "5 Springwater Avenue, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 15,
+                "popup": "5 Springwater Avenue, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61424243,
+                    -43.45426711
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 11:34am",
+                "Address": "5 Springwater Avenue, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 15,
+                "popup": "5 Springwater Avenue, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57024322,
+                    -43.58650278
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 11:43am",
+                "Address": "460 Halswell Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "3rd Party",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 100,
+                "popup": "460 Halswell Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57246258,
+                    -43.50330991
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 11:50am",
+                "Address": "22 San Rafael St Small leak on GV outside 22 San Rafael St towards rhs of the property.",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 8,
+                "popup": "22 San Rafael St Small leak on GV outside 22 San Rafael St towards rhs of the property."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67791078,
+                    -43.47793211
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 12:17pm",
+                "Address": "13 Nederland Avenue, Christchurch, 8083",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "13 Nederland Avenue, Christchurch, 8083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67791078,
+                    -43.47793211
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 12:19pm",
+                "Address": "13 Nederland Avenue, Christchurch, 8083",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "13 Nederland Avenue, Christchurch, 8083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.73111952,
+                    -43.55838275
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 12:25pm",
+                "Address": "27 Balmoral Lane, Christchurch, 8081",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "27 Balmoral Lane, Christchurch, 8081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.73111952,
+                    -43.55838275
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 12:34pm",
+                "Address": "27 Balmoral Lane, Christchurch, 8081",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "27 Balmoral Lane, Christchurch, 8081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57246258,
+                    -43.50330991
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 12:37pm",
+                "Address": "22 San Rafael St Small leak on GV outside 22 San Rafael St towards rhs of the property.",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 8,
+                "popup": "22 San Rafael St Small leak on GV outside 22 San Rafael St towards rhs of the property."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6158847,
+                    -43.4620285
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 01:04pm",
+                "Address": "8 Wagner Crescent, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "8 Wagner Crescent, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6158847,
+                    -43.4620285
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 01:34pm",
+                "Address": "8 Wagner Crescent, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "8 Wagner Crescent, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56698518,
+                    -43.48114615
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 04:06pm",
+                "Address": "621 Harewood Road, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "621 Harewood Road, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56698518,
+                    -43.48114615
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 04:07pm",
+                "Address": "621 Harewood Road, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "621 Harewood Road, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.70372118,
+                    -43.48381386
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 05:08pm",
+                "Address": "9 Aspen Place, Christchurch, 8083",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "9 Aspen Place, Christchurch, 8083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.70372118,
+                    -43.48381386
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 05:09pm",
+                "Address": "9 Aspen Place, Christchurch, 8083",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "9 Aspen Place, Christchurch, 8083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.73095046,
+                    -43.51383147
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 06:05pm",
+                "Address": "31 Rodney Street, Christchurch, 8061",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "31 Rodney Street, Christchurch, 8061"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.73095046,
+                    -43.51383147
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "16/08 06:06pm",
+                "Address": "31 Rodney Street, Christchurch, 8061",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "31 Rodney Street, Christchurch, 8061"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61172325,
+                    -43.50050646
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 05:39am",
+                "Address": "7 Dormer St, Christchurch, 8053",
+                "IsActive": 0,
+                "ShutdownType": "3rd Party",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 30,
+                "popup": "7 Dormer St, Christchurch, 8053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61172325,
+                    -43.50050646
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 05:40am",
+                "Address": "7 Dormer St, Christchurch, 8053",
+                "IsActive": 0,
+                "ShutdownType": "3rd Party",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 30,
+                "popup": "7 Dormer St, Christchurch, 8053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68298108,
+                    -43.49743378
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 09:34am",
+                "Address": "37A Burwood Road, Christchurch, 8083",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.00",
+                "EffectedProperties": 1,
+                "popup": "37A Burwood Road, Christchurch, 8083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68298108,
+                    -43.49743378
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 10:32am",
+                "Address": "37A Burwood Road, Christchurch, 8083",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.00",
+                "EffectedProperties": 1,
+                "popup": "37A Burwood Road, Christchurch, 8083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61328564,
+                    -43.55107184
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 10:43am",
+                "Address": "5 Howard Street, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 15,
+                "popup": "5 Howard Street, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61328564,
+                    -43.55107184
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 11:16am",
+                "Address": "5 Howard Street, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 15,
+                "popup": "5 Howard Street, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.60791946,
+                    -43.49839825
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 11:22am",
+                "Address": "57 Bellvue Ave, Christchurch, 8053",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 10,
+                "popup": "57 Bellvue Ave, Christchurch, 8053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.69336131,
+                    -43.52122401
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 11:36am",
+                "Address": "85 Ottawa Road, Christchurch, 8061",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 20,
+                "popup": "85 Ottawa Road, Christchurch, 8061"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.69336131,
+                    -43.52122401
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 12:16pm",
+                "Address": "85 Ottawa Road, Christchurch, 8061",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 20,
+                "popup": "85 Ottawa Road, Christchurch, 8061"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66282721,
+                    -43.49835164
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 12:53pm",
+                "Address": "6 Pagoda Street, Christchurch, 8061",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "6 Pagoda Street, Christchurch, 8061"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66282721,
+                    -43.49835164
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 12:54pm",
+                "Address": "6 Pagoda Street, Christchurch, 8061",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "6 Pagoda Street, Christchurch, 8061"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.60647442,
+                    -43.48220391
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 01:04pm",
+                "Address": "30 Cavendish Road, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 30,
+                "popup": "30 Cavendish Road, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.60791946,
+                    -43.49839825
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 01:13pm",
+                "Address": "57 Bellvue Ave, Christchurch, 8053",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 10,
+                "popup": "57 Bellvue Ave, Christchurch, 8053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63196831,
+                    -43.4505776
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 01:20pm",
+                "Address": "15 Castile Place, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 2,
+                "popup": "15 Castile Place, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62678947,
+                    -43.56403793
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 01:25pm",
+                "Address": "70 Barrington Street, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 15,
+                "popup": "70 Barrington Street, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.60647442,
+                    -43.48220391
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 01:24pm",
+                "Address": "30 Cavendish Road, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 30,
+                "popup": "30 Cavendish Road, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68667398,
+                    -43.53291513
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 02:13pm",
+                "Address": "104 Hay Street, Christchurch, 8062",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "104 Hay Street, Christchurch, 8062"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.69077566,
+                    -43.49042471
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 02:26pm",
+                "Address": "23 Glastonbury Drive, Christchurch, 8083",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "23 Glastonbury Drive, Christchurch, 8083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.69077566,
+                    -43.49042471
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 02:27pm",
+                "Address": "23 Glastonbury Drive, Christchurch, 8083",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 1,
+                "popup": "23 Glastonbury Drive, Christchurch, 8083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62678947,
+                    -43.56403793
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 02:29pm",
+                "Address": "70 Barrington Street, Christchurch, 8024",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 15,
+                "popup": "70 Barrington Street, Christchurch, 8024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63196831,
+                    -43.4505776
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 02:30pm",
+                "Address": "15 Castile Place, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 2,
+                "popup": "15 Castile Place, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68667398,
+                    -43.53291513
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 02:38pm",
+                "Address": "104 Hay Street, Christchurch, 8062",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "104 Hay Street, Christchurch, 8062"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59925894,
+                    -43.53245911
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 02:47pm",
+                "Address": "62 Division Street, Christchurch, 8041",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "62 Division Street, Christchurch, 8041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59925894,
+                    -43.53245911
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 02:48pm",
+                "Address": "62 Division Street, Christchurch, 8041",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "62 Division Street, Christchurch, 8041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61408175,
+                    -43.49131629
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 02:56pm",
+                "Address": "8 Shearer Avenue, Christchurch, 8052",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.00",
+                "EffectedProperties": 50,
+                "popup": "8 Shearer Avenue, Christchurch, 8052"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59471838,
+                    -43.52391796
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 03:05pm",
+                "Address": "19 Kotare Street, Christchurch, 8041",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "19 Kotare Street, Christchurch, 8041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56102481,
+                    -43.49995221
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 03:24pm",
+                "Address": "356 Memorial Avenue, Christchurch, 8053",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "356 Memorial Avenue, Christchurch, 8053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61408175,
+                    -43.49131629
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 03:46pm",
+                "Address": "8 Shearer Avenue, Christchurch, 8052",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.00",
+                "EffectedProperties": 50,
+                "popup": "8 Shearer Avenue, Christchurch, 8052"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59471838,
+                    -43.52391796
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 04:09pm",
+                "Address": "19 Kotare Street, Christchurch, 8041",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 20,
+                "popup": "19 Kotare Street, Christchurch, 8041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56102481,
+                    -43.49995221
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 04:25pm",
+                "Address": "356 Memorial Avenue, Christchurch, 8053",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "356 Memorial Avenue, Christchurch, 8053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.73052449,
+                    -43.51849084
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 05:10pm",
+                "Address": "188 Union Street, Christchurch, 8061",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 3,
+                "popup": "188 Union Street, Christchurch, 8061"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.73052449,
+                    -43.51849084
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 05:29pm",
+                "Address": "188 Union Street, Christchurch, 8061",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 3,
+                "popup": "188 Union Street, Christchurch, 8061"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62025276,
+                    -43.46838479
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 07:16pm",
+                "Address": "34 Farquhars Road, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 100,
+                "popup": "34 Farquhars Road, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62025276,
+                    -43.46838479
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "17/08 07:53pm",
+                "Address": "34 Farquhars Road, Christchurch, 8051",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.50",
+                "EffectedProperties": 100,
+                "popup": "34 Farquhars Road, Christchurch, 8051"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5852506,
+                    -43.50489451
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 03:24am",
+                "Address": "356 Clyde Road, Christchurch, 8053",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.00",
+                "EffectedProperties": 20,
+                "popup": "356 Clyde Road, Christchurch, 8053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62916918,
+                    -43.53770644
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 04:03am",
+                "Address": "12 Acton Street, Christchurch, 8011",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.00",
+                "EffectedProperties": 10,
+                "popup": "12 Acton Street, Christchurch, 8011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62916918,
+                    -43.53770644
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 06:48am",
+                "Address": "12 Acton Street, Christchurch, 8011",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.00",
+                "EffectedProperties": 10,
+                "popup": "12 Acton Street, Christchurch, 8011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5852506,
+                    -43.50489451
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 07:02am",
+                "Address": "356 Clyde Road, Christchurch, 8053",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.00",
+                "EffectedProperties": 20,
+                "popup": "356 Clyde Road, Christchurch, 8053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.58394537,
+                    -43.559807
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 09:43am",
+                "Address": "162 Halswell Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "162 Halswell Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.58394537,
+                    -43.559807
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 09:49am",
+                "Address": "162 Halswell Road, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 1,
+                "popup": "162 Halswell Road, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66586909,
+                    -43.53545175
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 12:20pm",
+                "Address": "139 Bordesley Street, Christchurch, 8011",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "139 Bordesley Street, Christchurch, 8011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66586909,
+                    -43.53545175
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 12:21pm",
+                "Address": "139 Bordesley Street, Christchurch, 8011",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "139 Bordesley Street, Christchurch, 8011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59274235,
+                    -43.53662169
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 12:55pm",
+                "Address": "8 Kawaka Street, Christchurch, 8041",
+                "IsActive": 0,
+                "ShutdownType": "Planned",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 17,
+                "popup": "8 Kawaka Street, Christchurch, 8041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59274235,
+                    -43.53662169
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 12:56pm",
+                "Address": "8 Kawaka Street, Christchurch, 8041",
+                "IsActive": 0,
+                "ShutdownType": "Planned",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 17,
+                "popup": "8 Kawaka Street, Christchurch, 8041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64651821,
+                    -43.49177642
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 01:10pm",
+                "Address": "19 Holiday Drive, Christchurch, 8052",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 20,
+                "popup": "19 Holiday Drive, Christchurch, 8052"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64651821,
+                    -43.49177642
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 01:42pm",
+                "Address": "19 Holiday Drive, Christchurch, 8052",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 20,
+                "popup": "19 Holiday Drive, Christchurch, 8052"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57133019,
+                    -43.56598333
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 02:45pm",
+                "Address": "15 Kinsella Crescent, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Planned",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 9,
+                "popup": "15 Kinsella Crescent, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57133019,
+                    -43.56598333
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 02:47pm",
+                "Address": "15 Kinsella Crescent, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Planned",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 9,
+                "popup": "15 Kinsella Crescent, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.74748929,
+                    -43.571341
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 03:02pm",
+                "Address": "139 Panorama Road, Christchurch, 8081",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 10,
+                "popup": "139 Panorama Road, Christchurch, 8081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.74748929,
+                    -43.571341
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 04:40pm",
+                "Address": "139 Panorama Road, Christchurch, 8081",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 10,
+                "popup": "139 Panorama Road, Christchurch, 8081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62922316,
+                    -43.55035326
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 05:42pm",
+                "Address": "174 Strickland Street, Christchurch, 8023",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "174 Strickland Street, Christchurch, 8023"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62922316,
+                    -43.55035326
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "18/08 06:07pm",
+                "Address": "174 Strickland Street, Christchurch, 8023",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.50",
+                "EffectedProperties": 10,
+                "popup": "174 Strickland Street, Christchurch, 8023"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59996,
+                    -43.49165974
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "19/08 02:58am",
+                "Address": "55 Hoani Street, Christchurch, 8052",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.00",
+                "EffectedProperties": 50,
+                "popup": "55 Hoani Street, Christchurch, 8052"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59996,
+                    -43.49165974
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "19/08 09:40am",
+                "Address": "55 Hoani Street, Christchurch, 8052",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "0.00",
+                "EffectedProperties": 50,
+                "popup": "55 Hoani Street, Christchurch, 8052"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63265496,
+                    -43.52342548
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "19/08 12:11pm",
+                "Address": "30 Conference St, Christchurch, 8013",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 35,
+                "popup": "30 Conference St, Christchurch, 8013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63265496,
+                    -43.52342548
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "19/08 02:59pm",
+                "Address": "30 Conference St, Christchurch, 8013",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "2.00",
+                "EffectedProperties": 35,
+                "popup": "30 Conference St, Christchurch, 8013"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61032205,
+                    -43.56175931
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "19/08 03:31pm",
+                "Address": "27 Greenpark Street, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 5,
+                "popup": "27 Greenpark Street, Christchurch, 8025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61032205,
+                    -43.56175931
+                ]
+            },
+            "properties": {
+                "feature": "watershutoffs",
+                "EventDateTime": "19/08 04:04pm",
+                "Address": "27 Greenpark Street, Christchurch, 8025",
+                "IsActive": 0,
+                "ShutdownType": "Emergency",
+                "EstHoursOff": "1.00",
+                "EffectedProperties": 5,
+                "popup": "27 Greenpark Street, Christchurch, 8025"
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+.map-container {
+    width: 100%;     /* Set the width as needed */
+    height: 900px;   /* Set the height as needed */
+  }
+
+/* Provide sufficient contrast against white background */
+
+body{
+  display: flex;
+  flex-direction: column;
+}
+a {
+color: #0366d6;
+}
+
+code {
+color: #E01A76;
+}
+
+.btn-primary {
+color: #fff;
+background-color: #1b6ec2;
+border-color: #1861ac;
+}
+
+
+.legend {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  margin: 15px;
+  border-radius: 5px;
+  position: absolute;
+  bottom: 30px;
+  left: 10px;
+  z-index: 10;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 200px;
+}
+
+.legend h4 {
+  margin: 0 0 10px 0;
+}
+
+.legend img {
+  vertical-align: middle;
+}
+
+.legend span {
+  vertical-align: middle;
+  margin-left: 10px;
+}

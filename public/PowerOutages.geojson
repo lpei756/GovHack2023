@@ -1,0 +1,5017 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56812160215,
+                    -43.510301238001
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6461-M",
+                "planned": 1,
+                "esttimeup": "22/08 04:00pm",
+                "timeup": "22/08 04:00pm",
+                "alternatedate": "2023-08-23",
+                "timedown": "22/08 09:00am",
+                "streets": "Burrows Place, Raxworthy Street, Waimairi Road",
+                "maxnumberoff": 9,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Avonhead, Ilam",
+                "popup": "INCD-6461-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67359374756,
+                    -43.509417390552
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41019-K",
+                "planned": 1,
+                "esttimeup": "23/08 04:00pm",
+                "timeup": "23/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "23/08 09:00am",
+                "streets": "Gayhurst Road",
+                "maxnumberoff": 9,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Dallington",
+                "popup": "INCD-41019-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56812160215,
+                    -43.510301238001
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6467-M",
+                "planned": 1,
+                "esttimeup": "24/08 04:00pm",
+                "timeup": "24/08 04:00pm",
+                "alternatedate": "2023-08-25",
+                "timedown": "24/08 09:00am",
+                "streets": "Raxworthy Street, Waimairi Road",
+                "maxnumberoff": 13,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Avonhead, Ilam",
+                "popup": "INCD-6467-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67101506125,
+                    -43.514974641029
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41016-K",
+                "planned": 1,
+                "esttimeup": "21/08 04:00pm",
+                "timeup": "21/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "21/08 09:00am",
+                "streets": "Dallington Terrace",
+                "maxnumberoff": 8,
+                "numberoff": 0,
+                "comment": "Corected end time of 16:00",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Dallington",
+                "popup": "INCD-41016-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67546202823,
+                    -43.513996879996
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41022-K",
+                "planned": 1,
+                "esttimeup": "28/08 04:00pm",
+                "timeup": "28/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "28/08 09:00am",
+                "streets": "Halberg Street",
+                "maxnumberoff": 14,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Dallington",
+                "popup": "INCD-41022-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56812160215,
+                    -43.510301238001
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6476-M",
+                "planned": 1,
+                "esttimeup": "29/08 04:00pm",
+                "timeup": "29/08 04:00pm",
+                "alternatedate": "2023-08-30",
+                "timedown": "29/08 09:00am",
+                "streets": "Burrows Place",
+                "maxnumberoff": 10,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Avonhead",
+                "popup": "INCD-6476-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68591780936,
+                    -43.523309475338
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41043-K",
+                "planned": 1,
+                "esttimeup": "30/08 04:00pm",
+                "timeup": "30/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "30/08 09:00am",
+                "streets": "Cuffs Road",
+                "maxnumberoff": 6,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Wainoni",
+                "popup": "INCD-41043-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.55335513983,
+                    -43.543146015864
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6479-M",
+                "planned": 1,
+                "esttimeup": "31/08 03:00pm",
+                "timeup": "31/08 03:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "31/08 09:00am",
+                "streets": "Washbournes Road",
+                "maxnumberoff": 12,
+                "numberoff": 0,
+                "comment": "Low voltage maintenance and alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Sockburn",
+                "popup": "INCD-6479-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68405247989,
+                    -43.522701050904
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41049-K",
+                "planned": 1,
+                "esttimeup": "1/09 04:00pm",
+                "timeup": "1/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "1/09 09:00am",
+                "streets": "Lyn Christie Place, Wildwood Avenue",
+                "maxnumberoff": 12,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Avonside, Wainoni",
+                "popup": "INCD-41049-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68405247989,
+                    -43.522701050904
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6482-M",
+                "planned": 1,
+                "esttimeup": "1/09 04:00pm",
+                "timeup": "1/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "1/09 09:00am",
+                "streets": "Lyn Christie Place",
+                "maxnumberoff": 19,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Wainoni",
+                "popup": "INCD-6482-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67828608258,
+                    -43.525044086192
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41052-K",
+                "planned": 1,
+                "esttimeup": "4/09 04:00pm",
+                "timeup": "4/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "4/09 09:00am",
+                "streets": "Pinedale Lane",
+                "maxnumberoff": 17,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "North Linwood",
+                "popup": "INCD-41052-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.36890046395,
+                    -43.600695622704
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41214-K",
+                "planned": 1,
+                "esttimeup": "21/08 04:00pm",
+                "timeup": "21/08 04:00pm",
+                "alternatedate": "2023-09-05",
+                "timedown": "21/08 09:00am",
+                "streets": "Brooklands Street, Brookside Road",
+                "maxnumberoff": 14,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Burwood, Ellesmere, Rolleston",
+                "popup": "INCD-41214-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.60743554502,
+                    -43.543173412053
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41220-K",
+                "planned": 1,
+                "esttimeup": "24/08 04:00pm",
+                "timeup": "24/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "24/08 09:00am",
+                "streets": "Chatham Street",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Addington",
+                "popup": "INCD-41220-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64841145247,
+                    -43.548898380293
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41280-K",
+                "planned": 1,
+                "esttimeup": "22/08 05:00pm",
+                "timeup": "22/08 05:00pm",
+                "alternatedate": "2023-08-24",
+                "timedown": "22/08 08:30am",
+                "streets": "Vienna Street",
+                "maxnumberoff": 7,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Waltham",
+                "popup": "INCD-41280-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64841145247,
+                    -43.548898380293
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41286-K",
+                "planned": 1,
+                "esttimeup": "22/08 05:00pm",
+                "timeup": "22/08 05:00pm",
+                "alternatedate": "2023-08-24",
+                "timedown": "22/08 12:00pm",
+                "streets": "Vienna Street",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Waltham",
+                "popup": "INCD-41286-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64233416682,
+                    -43.552913416749
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41289-K",
+                "planned": 1,
+                "esttimeup": "24/08 05:00pm",
+                "timeup": "24/08 05:00pm",
+                "alternatedate": "2023-08-29",
+                "timedown": "24/08 12:00pm",
+                "streets": "Huxley Street",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Sydenham",
+                "popup": "INCD-41289-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64841145247,
+                    -43.548898380293
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41292-K",
+                "planned": 1,
+                "esttimeup": "22/08 05:00pm",
+                "timeup": "22/08 05:00pm",
+                "alternatedate": "2023-08-24",
+                "timedown": "22/08 12:00pm",
+                "streets": "Vienna Street",
+                "maxnumberoff": 4,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Waltham",
+                "popup": "INCD-41292-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67018739359,
+                    -43.54426306826
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41301-K",
+                "planned": 1,
+                "esttimeup": "24/08 05:00pm",
+                "timeup": "24/08 05:00pm",
+                "alternatedate": "2023-08-29",
+                "timedown": "24/08 08:30am",
+                "streets": "Roimata Place",
+                "maxnumberoff": 24,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Woolston",
+                "popup": "INCD-41301-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64233416682,
+                    -43.552913416749
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41307-K",
+                "planned": 1,
+                "esttimeup": "24/08 05:00pm",
+                "timeup": "24/08 05:00pm",
+                "alternatedate": "2023-08-29",
+                "timedown": "24/08 12:00pm",
+                "streets": "Huxley Street",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Sydenham",
+                "popup": "INCD-41307-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67546202823,
+                    -43.513996879996
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41376-K",
+                "planned": 1,
+                "esttimeup": "6/09 04:00pm",
+                "timeup": "6/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "6/09 09:00am",
+                "streets": "Lovelock Street",
+                "maxnumberoff": 11,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Dallington",
+                "popup": "INCD-41376-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.48607659285,
+                    -43.642467142173
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6539-M",
+                "planned": 1,
+                "esttimeup": "7/09 04:00pm",
+                "timeup": "7/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "7/09 08:30am",
+                "streets": "Kildare Terrace",
+                "maxnumberoff": 4,
+                "numberoff": 0,
+                "comment": "Low Voltage power pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Lincoln",
+                "popup": "INCD-6539-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.37022153358,
+                    -43.621331295826
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41556-K",
+                "planned": 1,
+                "esttimeup": "22/08 12:30pm",
+                "timeup": "22/08 12:30pm",
+                "alternatedate": "2023-08-23",
+                "timedown": "22/08 09:00am",
+                "streets": "Coney Place, Marcoola Drive",
+                "maxnumberoff": 10,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Rolleston",
+                "popup": "INCD-41556-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.53106019134,
+                    -43.532188646228
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41559-K",
+                "planned": 1,
+                "esttimeup": "22/08 04:00pm",
+                "timeup": "22/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "22/08 09:00am",
+                "streets": "Buchanans Road, Carmen Road",
+                "maxnumberoff": 23,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Hornby",
+                "popup": "INCD-41559-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.74367737321,
+                    -43.573733108824
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41571-K",
+                "planned": 1,
+                "esttimeup": "23/08 04:00pm",
+                "timeup": "23/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "23/08 09:00am",
+                "streets": "Panorama Road, Revelation Drive",
+                "maxnumberoff": 16,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Clifton, Sumner",
+                "popup": "INCD-41571-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67708388923,
+                    -43.532352146278
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41577-K",
+                "planned": 1,
+                "esttimeup": "24/08 04:00pm",
+                "timeup": "24/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "24/08 09:00am",
+                "streets": "Buckleys Road, Russell Street",
+                "maxnumberoff": 14,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Linwood",
+                "popup": "INCD-41577-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.18500521887,
+                    -43.652269267726
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6578-M",
+                "planned": 1,
+                "esttimeup": "21/08 04:00pm",
+                "timeup": "21/08 04:00pm",
+                "alternatedate": "2023-08-30",
+                "timedown": "21/08 08:30am",
+                "streets": "Hororata Dunsandel Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor-pole change",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Dunsandel",
+                "popup": "INCD-6578-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63897907799,
+                    -43.5674356443
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41625-K",
+                "planned": 1,
+                "esttimeup": "23/08 04:00pm",
+                "timeup": "23/08 04:00pm",
+                "alternatedate": "2023-08-25",
+                "timedown": "23/08 09:00am",
+                "streets": "Riverview Street",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Beckenham",
+                "popup": "INCD-41625-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.29043989053,
+                    -43.678192589567
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41628-K",
+                "planned": 1,
+                "esttimeup": "22/08 03:30pm",
+                "timeup": "22/08 03:30pm",
+                "alternatedate": "2023-08-25",
+                "timedown": "22/08 09:00am",
+                "streets": "Selwyn Lake Road",
+                "maxnumberoff": 2,
+                "numberoff": 0,
+                "comment": "Replace high voltage power poles",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Brookside",
+                "popup": "INCD-41628-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.3070927461,
+                    -43.782307873626
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41631-K",
+                "planned": 1,
+                "esttimeup": "5/09 02:30pm",
+                "timeup": "5/09 02:30pm",
+                "alternatedate": "2023-09-07",
+                "timedown": "5/09 09:30am",
+                "streets": "Leeston And Lake Road",
+                "maxnumberoff": 2,
+                "numberoff": 0,
+                "comment": "Replace high voltage power pole",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Leeston",
+                "popup": "INCD-41631-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.50091776256,
+                    -43.573525381936
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41637-K",
+                "planned": 1,
+                "esttimeup": "22/08 04:00pm",
+                "timeup": "22/08 04:00pm",
+                "alternatedate": "2023-08-23",
+                "timedown": "22/08 09:00am",
+                "streets": "Blakes Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "Replace high voltage power pole",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Prebbleton",
+                "popup": "INCD-41637-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.34782344814,
+                    -43.522790276282
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41640-K",
+                "planned": 1,
+                "esttimeup": "25/08 04:00pm",
+                "timeup": "25/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "25/08 01:00pm",
+                "streets": "West Coast Road",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "West Melton",
+                "popup": "INCD-41640-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5780418737,
+                    -43.510545376416
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41706-K",
+                "planned": 1,
+                "esttimeup": "24/08 01:00pm",
+                "timeup": "24/08 01:00pm",
+                "alternatedate": "2023-08-28",
+                "timedown": "24/08 09:00am",
+                "streets": "Memorial Avenue",
+                "maxnumberoff": 18,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Burnside, Fendalton",
+                "popup": "INCD-41706-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.46476600687,
+                    -43.514933529048
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6605-M",
+                "planned": 1,
+                "esttimeup": "23/08 02:00pm",
+                "timeup": "23/08 02:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "22/08 09:00am",
+                "streets": "West Coast Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "Customer work. Customer off for 2 days continuous.",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Yaldhurst",
+                "popup": "INCD-6605-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.46947398041,
+                    -43.514199113475
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6608-M",
+                "planned": 1,
+                "esttimeup": "23/08 02:00pm",
+                "timeup": "23/08 02:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "23/08 09:00am",
+                "streets": "Buchanans Road, Miners Road, West Coast Road",
+                "maxnumberoff": 11,
+                "numberoff": 0,
+                "comment": "High voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Yaldhurst",
+                "popup": "INCD-6608-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.19837528107,
+                    -43.610134820683
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6623-M",
+                "planned": 1,
+                "esttimeup": "22/08 05:00pm",
+                "timeup": "22/08 05:00pm",
+                "alternatedate": "2023-08-31",
+                "timedown": "22/08 08:30am",
+                "streets": "Coaltrack Road, Highfield Road, Telegraph Road",
+                "maxnumberoff": 9,
+                "numberoff": 0,
+                "comment": "High voltage Alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Aylesbury, Norwood",
+                "popup": "INCD-6623-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.45876682838,
+                    -43.666832082061
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41754-K",
+                "planned": 1,
+                "esttimeup": "23/08 04:00pm",
+                "timeup": "23/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "23/08 08:30am",
+                "streets": "Collins Road, Sergeants Road",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "LV monitoring installation",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Springston",
+                "popup": "INCD-41754-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.43810577581,
+                    -43.50266787186
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41769-K",
+                "planned": 1,
+                "esttimeup": "24/08 04:00pm",
+                "timeup": "24/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "24/08 08:30am",
+                "streets": "Old West Coast Road",
+                "maxnumberoff": 9,
+                "numberoff": 0,
+                "comment": "LV monitoring installation",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Yaldhurst",
+                "popup": "INCD-41769-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.9030031318,
+                    -43.470800775789
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41778-K",
+                "planned": 1,
+                "esttimeup": "29/08 04:00pm",
+                "timeup": "29/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "29/08 09:00am",
+                "streets": "Whitecliffs Road",
+                "maxnumberoff": 2,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Glentunnel, Whitecliffs",
+                "popup": "INCD-41778-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.94863227806,
+                    -43.787962289807
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41787-K",
+                "planned": 1,
+                "esttimeup": "24/08 03:00pm",
+                "timeup": "24/08 03:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "24/08 10:00am",
+                "streets": "Lushingtons Bay Road",
+                "maxnumberoff": 4,
+                "numberoff": 0,
+                "comment": "Transformer upgrade",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Takamatua",
+                "popup": "INCD-41787-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.89459805376,
+                    -43.692708779086
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41811-K",
+                "planned": 1,
+                "esttimeup": "24/08 04:30pm",
+                "timeup": "24/08 04:30pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "24/08 08:30am",
+                "streets": "Double Bay Road, Frasers Road, Holmes Bay Road, Holmes Bay Valley Road, Innes Road, Pettigrews Road, Pigeon Bay Road, Shadbolts Road, Starvation Gully Road, Wharf Road, Wilsons Road",
+                "maxnumberoff": 96,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Holmes Bay, Kukupa, Pigeon Bay",
+                "popup": "INCD-41811-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68952054078,
+                    -43.506058129093
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41829-K",
+                "planned": 1,
+                "esttimeup": "26/08 02:00pm",
+                "timeup": "26/08 02:00pm",
+                "alternatedate": "2023-08-27",
+                "timedown": "26/08 10:00am",
+                "streets": "Belmont Street, Waratah Street, Woolley Street",
+                "maxnumberoff": 14,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Avondale",
+                "popup": "INCD-41829-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.38247052539,
+                    -43.582230228365
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41850-K",
+                "planned": 1,
+                "esttimeup": "27/08 03:00pm",
+                "timeup": "27/08 03:00pm",
+                "alternatedate": "2023-09-03",
+                "timedown": "27/08 09:00am",
+                "streets": "Hoskyns Road",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Rolleston",
+                "popup": "INCD-41850-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.38247052539,
+                    -43.582230228365
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41712-K",
+                "planned": 1,
+                "esttimeup": "24/08 03:00pm",
+                "timeup": "24/08 03:00pm",
+                "alternatedate": "2023-09-03",
+                "timedown": "24/08 09:00am",
+                "streets": "Hoskyns Road",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "cancelled for 24/08/2023",
+                "cause": "Planned isolation",
+                "jobstatus": "Cancelled",
+                "current": 1,
+                "area": "Rolleston",
+                "popup": "INCD-41712-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62820536507,
+                    -43.533248143494
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41877-K",
+                "planned": 1,
+                "esttimeup": "24/08 04:30pm",
+                "timeup": "24/08 04:30pm",
+                "alternatedate": "2023-08-25",
+                "timedown": "24/08 08:30am",
+                "streets": "Cashel Street",
+                "maxnumberoff": 23,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "City",
+                "popup": "INCD-41877-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.73896270283,
+                    -43.630160357488
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6677-M",
+                "planned": 1,
+                "esttimeup": "24/08 04:00pm",
+                "timeup": "24/08 04:00pm",
+                "alternatedate": "2023-08-25",
+                "timedown": "24/08 09:00am",
+                "streets": "Bayview Road, Kura Lane, Marama Terrace, Marine Drive, Ngatea Road, Purau Avenue, Rawhiti Street, Tau Crescent, Te Ara Crescent, Te Papau Crescent, Te Ra Crescent, Waipapa Avenue, Whero Avenue",
+                "maxnumberoff": 377,
+                "numberoff": 0,
+                "comment": "High voltage maintenance - Power pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Diamond Harbour",
+                "popup": "INCD-6677-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56645147651,
+                    -43.586290455681
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41886-K",
+                "planned": 1,
+                "esttimeup": "22/08 10:30am",
+                "timeup": "22/08 10:30am",
+                "alternatedate": "2023-08-23",
+                "timedown": "22/08 09:00am",
+                "streets": "Sabys Road",
+                "maxnumberoff": 11,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Halswell",
+                "popup": "INCD-41886-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61595607362,
+                    -43.503484590464
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41907-K",
+                "planned": 1,
+                "esttimeup": "28/08 03:00pm",
+                "timeup": "28/08 03:00pm",
+                "alternatedate": "2023-08-29",
+                "timedown": "28/08 09:00am",
+                "streets": "Papanui Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Papanui",
+                "popup": "INCD-41907-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.54787601019,
+                    -43.569047564068
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6581-M",
+                "planned": 1,
+                "esttimeup": "25/08 04:00pm",
+                "timeup": "25/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "25/08 08:30am",
+                "streets": "Carrs Road",
+                "maxnumberoff": 4,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor from 21/08/ to",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Halswell",
+                "popup": "INCD-6581-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.42950667422,
+                    -43.577702422448
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41916-K",
+                "planned": 1,
+                "esttimeup": "25/08 04:00pm",
+                "timeup": "25/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "25/08 08:30am",
+                "streets": "Berketts Road",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "To install LV monitoring",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Weedons",
+                "popup": "INCD-41916-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.20224692701,
+                    -43.665950931829
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41940-K",
+                "planned": 1,
+                "esttimeup": "25/08 04:30pm",
+                "timeup": "25/08 04:30pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "25/08 08:30am",
+                "streets": "Albert James Place, Boundary Creek Road, Highfield Avenue, Highfield Road, Hororata Dunsandel Road, Irvines Road, Leeston Dunsandel Road, Main South Road, Tramway Road, Winnie Vine Place",
+                "maxnumberoff": 87,
+                "numberoff": 0,
+                "comment": "HV switch replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Dunsandel, Norwood",
+                "popup": "INCD-41940-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.36799898137,
+                    -43.595675349058
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41961-K",
+                "planned": 1,
+                "esttimeup": "28/08 04:00pm",
+                "timeup": "28/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "28/08 09:00am",
+                "streets": "George Street",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Rolleston",
+                "popup": "INCD-41961-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.39294987786,
+                    -43.56984261218
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6680-M",
+                "planned": 1,
+                "esttimeup": "28/08 03:30pm",
+                "timeup": "28/08 03:30pm",
+                "alternatedate": "2023-09-12",
+                "timedown": "28/08 08:30am",
+                "streets": "Maddisons Road",
+                "maxnumberoff": 17,
+                "numberoff": 0,
+                "comment": "To decommission 2 transformer sites",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Weedons",
+                "popup": "INCD-6680-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6571184448,
+                    -43.537228337029
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42039-K",
+                "planned": 1,
+                "esttimeup": "26/08 04:00pm",
+                "timeup": "26/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "26/08 08:30am",
+                "streets": "Nursery Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned LV isolation: Reportable",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Phillipstown",
+                "popup": "INCD-42039-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64842391178,
+                    -43.551014408591
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42036-K",
+                "planned": 1,
+                "esttimeup": "24/08 04:30pm",
+                "timeup": "24/08 04:30pm",
+                "alternatedate": "2023-08-25",
+                "timedown": "24/08 08:30am",
+                "streets": "Bunyan Street",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Waltham",
+                "popup": "INCD-42036-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.53966149434,
+                    -43.558218765891
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42051-K",
+                "planned": 1,
+                "esttimeup": "25/08 03:00pm",
+                "timeup": "25/08 03:00pm",
+                "alternatedate": "2023-08-28",
+                "timedown": "25/08 09:00am",
+                "streets": "Awatea Road, Little Gem Road, Wilmers Road",
+                "maxnumberoff": 18,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Hornby",
+                "popup": "INCD-42051-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57549502681,
+                    -43.535009504392
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42060-K",
+                "planned": 1,
+                "esttimeup": "25/08 04:00pm",
+                "timeup": "25/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "25/08 09:00am",
+                "streets": "Suva Street",
+                "maxnumberoff": 17,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Upper Riccarton",
+                "popup": "INCD-42060-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.49897685602,
+                    -43.501357047997
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-15793-L",
+                "planned": 1,
+                "esttimeup": "23/08 04:00pm",
+                "timeup": "23/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "23/08 08:30am",
+                "streets": "Guys Road",
+                "maxnumberoff": 4,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Yaldhurst",
+                "popup": "INCD-15793-L"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.50947462418,
+                    -43.503392511517
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-15796-L",
+                "planned": 1,
+                "esttimeup": "25/08 04:00pm",
+                "timeup": "25/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "25/08 08:30am",
+                "streets": "Ryans Road",
+                "maxnumberoff": 2,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Yaldhurst",
+                "popup": "INCD-15796-L"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68300411339,
+                    -43.555122387795
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42069-K",
+                "planned": 1,
+                "esttimeup": "28/08 03:00pm",
+                "timeup": "28/08 03:00pm",
+                "alternatedate": "2023-08-29",
+                "timedown": "28/08 09:00am",
+                "streets": "Jubilee Street, Rutherford Street",
+                "maxnumberoff": 27,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Woolston",
+                "popup": "INCD-42069-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.0598771016,
+                    -43.6478961084
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42078-K",
+                "planned": 1,
+                "esttimeup": "29/08 04:00pm",
+                "timeup": "29/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "29/08 09:00am",
+                "streets": "Sharlands Road",
+                "maxnumberoff": 7,
+                "numberoff": 0,
+                "comment": "Transformer upgrade",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Bankside",
+                "popup": "INCD-42078-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.26287110569,
+                    -43.467231040398
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42084-K",
+                "planned": 1,
+                "esttimeup": "29/08 04:00pm",
+                "timeup": "29/08 04:00pm",
+                "alternatedate": "2023-08-30",
+                "timedown": "29/08 09:00am",
+                "streets": "Highfield Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "Power pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Courtenay",
+                "popup": "INCD-42084-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6401265503,
+                    -43.453616229657
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42093-K",
+                "planned": 1,
+                "esttimeup": "30/08 03:00pm",
+                "timeup": "30/08 03:00pm",
+                "alternatedate": "2023-08-31",
+                "timedown": "30/08 09:00am",
+                "streets": "Atawhai Lane, Belfast Road",
+                "maxnumberoff": 13,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Belfast",
+                "popup": "INCD-42093-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.57446275487,
+                    -43.486418624674
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42129-K",
+                "planned": 1,
+                "esttimeup": "31/08 02:00pm",
+                "timeup": "31/08 02:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "31/08 08:30am",
+                "streets": "Le Roi Way, Trafford Street",
+                "maxnumberoff": 36,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Bishopdale",
+                "popup": "INCD-42129-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.15048343304,
+                    -43.613444604188
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42135-K",
+                "planned": 1,
+                "esttimeup": "28/08 01:00pm",
+                "timeup": "28/08 01:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "28/08 09:00am",
+                "streets": "Coaltrack Road",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Greendale",
+                "popup": "INCD-42135-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.50067303741,
+                    -43.543180191396
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42138-K",
+                "planned": 1,
+                "esttimeup": "31/08 06:00pm",
+                "timeup": "31/08 06:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "31/08 04:00pm",
+                "streets": "Waterloo Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Islington",
+                "popup": "INCD-42138-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.53938876794,
+                    -43.568014221459
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42171-K",
+                "planned": 1,
+                "esttimeup": "31/08 04:00pm",
+                "timeup": "31/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "31/08 08:30am",
+                "streets": "Halswell Junction Road",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "Remove poles, reconfigure lines.",
+                "cause": "Planned LV isolation: Reportable",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Hornby",
+                "popup": "INCD-42171-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.74489219754,
+                    -43.54403511651
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6686-M",
+                "planned": 1,
+                "esttimeup": "29/08 04:00pm",
+                "timeup": "29/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "29/08 08:30am",
+                "streets": "Coleridge Road, High Peak Road, Leaches Road, Point Road, Rakaia Gorge Road, Snowdon Road, The Rise, The Rowan, Tussock Lane, Washpen Road, Windwhistle Road, Zig Zag Road",
+                "maxnumberoff": 207,
+                "numberoff": 0,
+                "comment": "Pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Glenroy, Lake Coleridge, Rakaia Gorge, Terrace Downs, Windwhistle",
+                "popup": "INCD-6686-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.50271276935,
+                    -43.502832050412
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6683-M",
+                "planned": 1,
+                "esttimeup": "25/08 04:00pm",
+                "timeup": "25/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "25/08 08:30am",
+                "streets": "Coringa Road, Ryans Road",
+                "maxnumberoff": 7,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Yaldhurst",
+                "popup": "INCD-6683-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.3848341047,
+                    -43.627434592148
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42192-K",
+                "planned": 1,
+                "esttimeup": "30/08 11:30am",
+                "timeup": "30/08 11:30am",
+                "alternatedate": "2023-09-01",
+                "timedown": "30/08 08:30am",
+                "streets": "Finstock Way, Westmoor Boulevard",
+                "maxnumberoff": 10,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Rolleston",
+                "popup": "INCD-42192-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64260610268,
+                    -43.508973564462
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42201-K",
+                "planned": 1,
+                "esttimeup": "30/08 03:00pm",
+                "timeup": "30/08 03:00pm",
+                "alternatedate": "2023-09-01",
+                "timedown": "30/08 09:00am",
+                "streets": "Warrington Street",
+                "maxnumberoff": 23,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "St Albans",
+                "popup": "INCD-42201-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.48028791958,
+                    -43.541522612036
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6692-M",
+                "planned": 1,
+                "esttimeup": "30/08 04:00pm",
+                "timeup": "30/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "30/08 09:00am",
+                "streets": "Azalea Close, Kirk Road, Maddisons Road",
+                "maxnumberoff": 48,
+                "numberoff": 0,
+                "comment": "Pole  replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Templeton",
+                "popup": "INCD-6692-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66560424459,
+                    -43.468631794401
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42213-K",
+                "planned": 1,
+                "esttimeup": "30/08 03:30pm",
+                "timeup": "30/08 03:30pm",
+                "alternatedate": "2023-09-01",
+                "timedown": "30/08 12:30pm",
+                "streets": "Metehau Street, Te Korari Street",
+                "maxnumberoff": 11,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Burwood, Marshland",
+                "popup": "INCD-42213-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.36606410537,
+                    -43.744374785392
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42225-K",
+                "planned": 1,
+                "esttimeup": "30/08 04:00pm",
+                "timeup": "30/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "30/08 09:00am",
+                "streets": "The Lake Road",
+                "maxnumberoff": 2,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Doyleston",
+                "popup": "INCD-42225-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.54234666015,
+                    -43.568242200405
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42228-K",
+                "planned": 1,
+                "esttimeup": "31/08 04:00pm",
+                "timeup": "31/08 04:00pm",
+                "alternatedate": "2023-09-01",
+                "timedown": "31/08 12:00pm",
+                "streets": "Albert Willis Avenue, Halswell Junction Road",
+                "maxnumberoff": 12,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Halswell, Hornby",
+                "popup": "INCD-42228-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6344633433,
+                    -43.531926690215
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42174-K",
+                "planned": 1,
+                "esttimeup": "14/08 06:45am",
+                "timeup": "14/08 06:42am",
+                "alternatedate": "1970-01-01",
+                "timedown": "14/08 04:00am",
+                "streets": "Hereford Street",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "City",
+                "popup": "INCD-42174-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.33820712684,
+                    -43.796187083635
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6689-M",
+                "planned": 1,
+                "esttimeup": "1/09 04:30pm",
+                "timeup": "1/09 04:30pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "1/09 08:30am",
+                "streets": "The Lake Road",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "Isolation for vegetation management",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Lakeside",
+                "popup": "INCD-6689-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.70822306394,
+                    -43.514166213019
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42396-K",
+                "planned": 1,
+                "esttimeup": "1/09 03:00pm",
+                "timeup": "1/09 03:00pm",
+                "alternatedate": "2023-09-05",
+                "timedown": "1/09 09:00am",
+                "streets": "Carisbrooke Street, Marlow Road, Pages Road, Rowan Avenue",
+                "maxnumberoff": 68,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Aranui, Bexley",
+                "popup": "INCD-42396-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.90211494544,
+                    -43.816456025255
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6515-M",
+                "planned": 1,
+                "esttimeup": "14/08 08:00am",
+                "timeup": "14/08 08:29am",
+                "alternatedate": "2023-08-31",
+                "timedown": "14/08 07:46am",
+                "streets": "Wainui Valley Road",
+                "maxnumberoff": 9,
+                "numberoff": 0,
+                "comment": "To Connect Generator",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Wainui",
+                "popup": "INCD-6515-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64286863893,
+                    -43.533682067372
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42402-K",
+                "planned": 1,
+                "esttimeup": "6/09 03:00pm",
+                "timeup": "6/09 03:00pm",
+                "alternatedate": "2023-09-08",
+                "timedown": "6/09 09:00am",
+                "streets": "Cashel Street",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "City",
+                "popup": "INCD-42402-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.30429706349,
+                    -43.493224868569
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6695-M",
+                "planned": 1,
+                "esttimeup": "30/08 12:00pm",
+                "timeup": "30/08 12:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "30/08 09:00am",
+                "streets": "Halkett Road, Intake Road, Old West Coast Road",
+                "maxnumberoff": 27,
+                "numberoff": 0,
+                "comment": "Pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Courtenay, Halkett, West Melton",
+                "popup": "INCD-6695-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.34781454239,
+                    -43.561508299234
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6698-M",
+                "planned": 1,
+                "esttimeup": "30/08 04:00pm",
+                "timeup": "30/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "30/08 01:00pm",
+                "streets": "Newtons Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "Pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Sandy Knolls",
+                "popup": "INCD-6698-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.37396611215,
+                    -43.738115614461
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6701-M",
+                "planned": 1,
+                "esttimeup": "31/08 04:30pm",
+                "timeup": "31/08 04:30pm",
+                "alternatedate": "2023-09-05",
+                "timedown": "31/08 09:00am",
+                "streets": "Lake Road South",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "Transformer change",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Irwell",
+                "popup": "INCD-6701-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.49958469608,
+                    -43.653692094214
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42423-K",
+                "planned": 0,
+                "esttimeup": "14/08 02:12pm",
+                "timeup": "14/08 11:54am",
+                "alternatedate": "1970-01-01",
+                "timedown": "14/08 11:37am",
+                "streets": "Ellesmere Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Wildlife contact vs Orion asset",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Lincoln",
+                "popup": "INCD-42423-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.9089627223,
+                    -43.330398731756
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6521-M",
+                "planned": 1,
+                "esttimeup": "14/08 04:00pm",
+                "timeup": "14/08 12:32pm",
+                "alternatedate": "2023-08-15",
+                "timedown": "14/08 09:32am",
+                "streets": "Annavale Road, Benmore Road, Brooksdale Road, West Coast Road",
+                "maxnumberoff": 23,
+                "numberoff": 0,
+                "comment": "High voltage maintenance",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Springfield",
+                "popup": "INCD-6521-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66534319847,
+                    -43.524880876327
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41187-K",
+                "planned": 1,
+                "esttimeup": "14/08 04:00pm",
+                "timeup": "14/08 12:50pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "14/08 09:25am",
+                "streets": "England Street, Woodham Road",
+                "maxnumberoff": 7,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Linwood",
+                "popup": "INCD-41187-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.60670150336,
+                    -43.532320792587
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42444-K",
+                "planned": 1,
+                "esttimeup": "23/08 03:00pm",
+                "timeup": "23/08 03:00pm",
+                "alternatedate": "2023-08-29",
+                "timedown": "23/08 09:00am",
+                "streets": "Kipax Place",
+                "maxnumberoff": 11,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Riccarton",
+                "popup": "INCD-42444-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.49550393732,
+                    -43.506942436542
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42408-K",
+                "planned": 0,
+                "esttimeup": "14/08 04:31pm",
+                "timeup": "14/08 01:33pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "14/08 01:06pm",
+                "streets": "Guys Road",
+                "maxnumberoff": 2,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Emergency repair",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Yaldhurst",
+                "popup": "INCD-42408-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62024353213,
+                    -43.508226157958
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-40836-K",
+                "planned": 1,
+                "esttimeup": "14/08 04:00pm",
+                "timeup": "14/08 01:25pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "14/08 09:04am",
+                "streets": "Innes Road",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "St Albans",
+                "popup": "INCD-40836-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67549063149,
+                    -43.545592859668
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-40842-K",
+                "planned": 1,
+                "esttimeup": "14/08 04:00pm",
+                "timeup": "14/08 01:20pm",
+                "alternatedate": "2023-08-15",
+                "timedown": "14/08 09:00am",
+                "streets": "Ferry Road",
+                "maxnumberoff": 15,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Woolston",
+                "popup": "INCD-40842-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.32039276985,
+                    -43.542394770313
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6704-M",
+                "planned": 1,
+                "esttimeup": "31/08 04:00pm",
+                "timeup": "31/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "31/08 09:00am",
+                "streets": "Hayes Road, Hoskyns Road, Sandy Knolls Road",
+                "maxnumberoff": 30,
+                "numberoff": 0,
+                "comment": "Pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Aylesbury, Rolleston, Sandy Knolls, West Melton",
+                "popup": "INCD-6704-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66505211632,
+                    -43.510392162481
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-40767-K",
+                "planned": 1,
+                "esttimeup": "14/08 04:00pm",
+                "timeup": "14/08 02:55pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "14/08 09:10am",
+                "streets": "Banks Avenue",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Dallington",
+                "popup": "INCD-40767-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.90557602084,
+                    -43.758483176291
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6512-M",
+                "planned": 1,
+                "esttimeup": "14/08 07:00pm",
+                "timeup": "14/08 06:37pm",
+                "alternatedate": "2023-08-31",
+                "timedown": "14/08 08:37am",
+                "streets": "Barrys Bay Valley Road, Christchurch Akaroa Road, Onawe Flat Road, Pigeon Bay Road, Stock Route",
+                "maxnumberoff": 61,
+                "numberoff": 0,
+                "comment": "High voltage alterations - Replace ABIs",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Akaroa, Barrys Bay, Duvauchelle, Little River",
+                "popup": "INCD-6512-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.90211494544,
+                    -43.816456025255
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6518-M",
+                "planned": 1,
+                "esttimeup": "14/08 05:00pm",
+                "timeup": "14/08 06:37pm",
+                "alternatedate": "2023-08-31",
+                "timedown": "14/08 07:46am",
+                "streets": "Barrys Bay Valley Road, Christchurch Akaroa Road, Onawe Flat Road",
+                "maxnumberoff": 36,
+                "numberoff": 0,
+                "comment": "To remove generator - Updated alt date",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Barrys Bay",
+                "popup": "INCD-6518-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.90211494544,
+                    -43.816456025255
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42480-K",
+                "planned": 0,
+                "esttimeup": "14/08 10:35pm",
+                "timeup": "14/08 07:24pm",
+                "alternatedate": "2023-08-31",
+                "timedown": "14/08 07:19pm",
+                "streets": "Wainui Valley Road",
+                "maxnumberoff": 9,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Wainui",
+                "popup": "INCD-42480-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67566795096,
+                    -43.52636931884
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41208-K",
+                "planned": 1,
+                "esttimeup": "15/08 03:00pm",
+                "timeup": "15/08 09:22am",
+                "alternatedate": "2023-08-18",
+                "timedown": "15/08 09:01am",
+                "streets": "Worcester Street",
+                "maxnumberoff": 15,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Linwood, North Linwood",
+                "popup": "INCD-41208-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59217419794,
+                    -43.530162905656
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42513-K",
+                "planned": 1,
+                "esttimeup": "24/08 04:00pm",
+                "timeup": "24/08 04:00pm",
+                "alternatedate": "2023-08-28",
+                "timedown": "24/08 03:00pm",
+                "streets": "Rattray Street",
+                "maxnumberoff": 14,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Riccarton",
+                "popup": "INCD-42513-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.90280538908,
+                    -43.812422910872
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42525-K",
+                "planned": 1,
+                "esttimeup": "6/09 04:00pm",
+                "timeup": "6/09 04:00pm",
+                "alternatedate": "2023-09-07",
+                "timedown": "6/09 09:00am",
+                "streets": "Cemetery Road",
+                "maxnumberoff": 2,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Wainui",
+                "popup": "INCD-42525-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.29738126629,
+                    -43.766870029758
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42534-K",
+                "planned": 1,
+                "esttimeup": "1/09 04:00pm",
+                "timeup": "1/09 04:00pm",
+                "alternatedate": "2023-09-29",
+                "timedown": "1/09 08:30am",
+                "streets": "Flannery Street, Woodville Street",
+                "maxnumberoff": 29,
+                "numberoff": 0,
+                "comment": "Pole replacement",
+                "cause": "Planned LV isolation: Reportable",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Leeston",
+                "popup": "INCD-42534-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.9557889971,
+                    -43.774081336189
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42540-K",
+                "planned": 1,
+                "esttimeup": "1/09 04:00pm",
+                "timeup": "1/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "1/09 09:30am",
+                "streets": "Christchurch Akaroa Road",
+                "maxnumberoff": 12,
+                "numberoff": 0,
+                "comment": "Pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Robinsons Bay, Takamatua",
+                "popup": "INCD-42540-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66111269519,
+                    -43.568790992351
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42543-K",
+                "planned": 1,
+                "esttimeup": "5/09 05:00pm",
+                "timeup": "5/09 05:00pm",
+                "alternatedate": "2023-09-07",
+                "timedown": "5/09 08:30am",
+                "streets": "Chorley Place, Heybridge Lane",
+                "maxnumberoff": 14,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Murray Aynsley",
+                "popup": "INCD-42543-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.32452061711,
+                    -43.610553616404
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42438-K",
+                "planned": 1,
+                "esttimeup": "15/08 04:00pm",
+                "timeup": "15/08 02:11pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "15/08 09:20am",
+                "streets": "Aylesbury Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "Replace 11kV Pole. Orion to notify customer",
+                "cause": "Line fault",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Burnham",
+                "popup": "INCD-42438-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5718942912,
+                    -43.540137492882
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42555-K",
+                "planned": 1,
+                "esttimeup": "3/09 04:00pm",
+                "timeup": "3/09 04:00pm",
+                "alternatedate": "2023-09-17",
+                "timedown": "3/09 08:00am",
+                "streets": "Blenheim Road",
+                "maxnumberoff": 4,
+                "numberoff": 0,
+                "comment": "Transformer upgrade",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Upper Riccarton",
+                "popup": "INCD-42555-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66111269519,
+                    -43.568790992351
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42558-K",
+                "planned": 1,
+                "esttimeup": "7/09 05:00pm",
+                "timeup": "7/09 05:00pm",
+                "alternatedate": "2023-09-12",
+                "timedown": "7/09 08:30am",
+                "streets": "Heybridge Lane, Vernon Terrace",
+                "maxnumberoff": 13,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Murray Aynsley, St Martins",
+                "popup": "INCD-42558-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.9606964375,
+                    -43.813159778099
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6443-M",
+                "planned": 1,
+                "esttimeup": "15/08 04:00pm",
+                "timeup": "15/08 03:20pm",
+                "alternatedate": "2023-08-16",
+                "timedown": "15/08 09:38am",
+                "streets": "Aubrey Street South, Beach Road",
+                "maxnumberoff": 15,
+                "numberoff": 0,
+                "comment": "Replace Low Voltage power pole",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Akaroa",
+                "popup": "INCD-6443-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.36483894429,
+                    -43.61695254302
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-40845-K",
+                "planned": 1,
+                "esttimeup": "15/08 04:00pm",
+                "timeup": "15/08 03:35pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "15/08 09:18am",
+                "streets": "Brenley Drive, Dunns Crossing Road",
+                "maxnumberoff": 10,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Rolleston",
+                "popup": "INCD-40845-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.65468859123,
+                    -43.559605503862
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42570-K",
+                "planned": 1,
+                "esttimeup": "7/09 05:00pm",
+                "timeup": "7/09 05:00pm",
+                "alternatedate": "2023-09-12",
+                "timedown": "7/09 08:30am",
+                "streets": "Ngaio Street",
+                "maxnumberoff": 4,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "St Martins",
+                "popup": "INCD-42570-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7202352803,
+                    -43.602761571327
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42522-K",
+                "planned": 0,
+                "esttimeup": "15/08 05:04pm",
+                "timeup": "15/08 03:36pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "15/08 12:36pm",
+                "streets": "Canterbury Street, London Street, Winchester Street",
+                "maxnumberoff": 7,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Low voltage equipment fault",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Hornby, Lyttelton",
+                "popup": "INCD-42522-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67149046157,
+                    -43.550488734299
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41142-K",
+                "planned": 1,
+                "esttimeup": "15/08 05:00pm",
+                "timeup": "15/08 03:39pm",
+                "alternatedate": "2023-08-17",
+                "timedown": "15/08 08:42am",
+                "streets": "Palamino Place",
+                "maxnumberoff": 9,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Woolston",
+                "popup": "INCD-41142-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67149046157,
+                    -43.550488734299
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41148-K",
+                "planned": 1,
+                "esttimeup": "15/08 05:00pm",
+                "timeup": "15/08 02:40pm",
+                "alternatedate": "2023-08-17",
+                "timedown": "15/08 08:30am",
+                "streets": "Seaforth Place",
+                "maxnumberoff": 11,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Woolston",
+                "popup": "INCD-41148-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.25963800376,
+                    -43.664905426579
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6341-M",
+                "planned": 1,
+                "esttimeup": "15/08 04:00pm",
+                "timeup": "15/08 02:33pm",
+                "alternatedate": "2023-08-21",
+                "timedown": "15/08 08:30am",
+                "streets": "Boundary Creek Road, Mains Road, Rakaia Selwyn Road, Selwyn Lake Road",
+                "maxnumberoff": 39,
+                "numberoff": 0,
+                "comment": "High voltage maintenance",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Brookside, Dunsandel",
+                "popup": "INCD-6341-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.11564347941,
+                    -43.688949121071
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6524-M",
+                "planned": 1,
+                "esttimeup": "15/08 05:00pm",
+                "timeup": "15/08 04:57pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "15/08 08:30am",
+                "streets": "Main South Road, Old South Road",
+                "maxnumberoff": 13,
+                "numberoff": 0,
+                "comment": "High voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Bankside, Dunsandel",
+                "popup": "INCD-6524-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.51070919535,
+                    -43.538910561598
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42576-K",
+                "planned": 0,
+                "esttimeup": "16/08 03:44am",
+                "timeup": "16/08 01:51am",
+                "alternatedate": "1970-01-01",
+                "timedown": "15/08 08:24pm",
+                "streets": "Roberts Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Vehicle contact vs Orion asset",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Hei Hei",
+                "popup": "INCD-42576-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.39491644673,
+                    -43.537915178574
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42582-K",
+                "planned": 0,
+                "esttimeup": "16/08 06:13am",
+                "timeup": "16/08 03:40am",
+                "alternatedate": "1970-01-01",
+                "timedown": "16/08 02:23am",
+                "streets": "Johnson Road",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Line fault",
+                "jobstatus": null,
+                "current": -1,
+                "area": "West Melton",
+                "popup": "INCD-42582-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.98698221046,
+                    -43.563562553448
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-15799-L",
+                "planned": 1,
+                "esttimeup": "30/08 04:00pm",
+                "timeup": "30/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "30/08 09:00am",
+                "streets": "Derretts Road, Dunsandel Road, Haldon Road, Illingworth Road, Mitchells Road, Rockwood Road, Substation Road",
+                "maxnumberoff": 49,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Line fault",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Hororata, Te Pirita",
+                "popup": "INCD-15799-L"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6589113022,
+                    -43.782917927162
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42600-K",
+                "planned": 0,
+                "esttimeup": "16/08 10:15am",
+                "timeup": "16/08 08:55am",
+                "alternatedate": "1970-01-01",
+                "timedown": "16/08 08:55am",
+                "streets": "",
+                "maxnumberoff": 236,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Auto-reclose",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Motukarara",
+                "popup": "INCD-42600-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.37002611526,
+                    -43.711190252577
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6527-M",
+                "planned": 1,
+                "esttimeup": "15/08 04:00pm",
+                "timeup": "16/08 08:28am",
+                "alternatedate": "1970-01-01",
+                "timedown": "15/08 09:04am",
+                "streets": "Leeston Road, Selwyn Lake Road",
+                "maxnumberoff": 8,
+                "numberoff": 0,
+                "comment": "High voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Irwell",
+                "popup": "INCD-6527-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6973472829,
+                    -43.568703566941
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42606-K",
+                "planned": 1,
+                "esttimeup": "4/09 04:00pm",
+                "timeup": "4/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "4/09 08:30am",
+                "streets": "Scruttons Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "High voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Heathcote",
+                "popup": "INCD-42606-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6973472829,
+                    -43.568703566941
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42612-K",
+                "planned": 1,
+                "esttimeup": "15/09 04:00pm",
+                "timeup": "15/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "15/09 08:30am",
+                "streets": "Scruttons Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "High voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Heathcote",
+                "popup": "INCD-42612-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66590625613,
+                    -43.52824110838
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42588-K",
+                "planned": 0,
+                "esttimeup": "16/08 01:00pm",
+                "timeup": "16/08 12:17pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "16/08 11:24am",
+                "streets": "Gloucester Street, Linwood Avenue, Rochester Street",
+                "maxnumberoff": 19,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Vehicle contact vs Orion asset",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Linwood",
+                "popup": "INCD-42588-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.69048673448,
+                    -43.55662858314
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41793-K",
+                "planned": 1,
+                "esttimeup": "16/08 03:00pm",
+                "timeup": "16/08 12:55pm",
+                "alternatedate": "2023-08-17",
+                "timedown": "16/08 09:00am",
+                "streets": "Kennaway Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Woolston",
+                "popup": "INCD-41793-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56374161446,
+                    -43.510365648581
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-40752-K",
+                "planned": 1,
+                "esttimeup": "15/08 04:00pm",
+                "timeup": "16/08 01:15pm",
+                "alternatedate": "2023-08-16",
+                "timedown": "16/08 08:58am",
+                "streets": "Bullock Place, Raxworthy Street",
+                "maxnumberoff": 13,
+                "numberoff": 0,
+                "comment": "Using Alternate Date of 16/08/2023",
+                "cause": "Planned isolation",
+                "jobstatus": "Use alternate date",
+                "current": -1,
+                "area": "Avonhead, Ilam",
+                "popup": "INCD-40752-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.96697552684,
+                    -43.8132157878
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6569-M",
+                "planned": 1,
+                "esttimeup": "16/08 04:00pm",
+                "timeup": "16/08 01:19pm",
+                "alternatedate": "2023-08-17",
+                "timedown": "16/08 09:30am",
+                "streets": "Selwyn Avenue, Walnut Place",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Akaroa",
+                "popup": "INCD-6569-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.45248409718,
+                    -43.663452666527
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6545-M",
+                "planned": 1,
+                "esttimeup": "16/08 02:30pm",
+                "timeup": "16/08 02:09pm",
+                "alternatedate": "2023-08-18",
+                "timedown": "16/08 09:33am",
+                "streets": "Collins Road, Sergeants Road",
+                "maxnumberoff": 26,
+                "numberoff": 0,
+                "comment": "HV Maintenance - New date and time",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Lincoln, Springston",
+                "popup": "INCD-6545-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.73693444144,
+                    -43.532361447866
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6449-M",
+                "planned": 1,
+                "esttimeup": "16/08 04:00pm",
+                "timeup": "16/08 02:13pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "16/08 08:35am",
+                "streets": "Estuary Road",
+                "maxnumberoff": 11,
+                "numberoff": 0,
+                "comment": "Low Voltage power pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "South New Brighton",
+                "popup": "INCD-6449-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.66026318611,
+                    -43.512800183123
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6446-M",
+                "planned": 1,
+                "esttimeup": "16/08 04:00pm",
+                "timeup": "16/08 02:50pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "16/08 09:02am",
+                "streets": "Poulton Avenue",
+                "maxnumberoff": 13,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Richmond",
+                "popup": "INCD-6446-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.41348850971,
+                    -43.560243325142
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6548-M",
+                "planned": 1,
+                "esttimeup": "16/08 04:00pm",
+                "timeup": "16/08 02:20pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "16/08 09:01am",
+                "streets": "Alston Road, Maddisons Road, Wild Road",
+                "maxnumberoff": 73,
+                "numberoff": 0,
+                "comment": "HV Maintenance - Increased outage area back to Original outage",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Templeton, Weedons",
+                "popup": "INCD-6548-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.55488615401,
+                    -43.681455106269
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6551-M",
+                "planned": 1,
+                "esttimeup": "16/08 04:30pm",
+                "timeup": "16/08 02:40pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "16/08 09:07am",
+                "streets": "Christchurch Akaroa Road",
+                "maxnumberoff": 13,
+                "numberoff": 0,
+                "comment": "High voltage alterations - New Tx",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Motukarara, Tai Tapu",
+                "popup": "INCD-6551-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.502242133,
+                    -43.510429607918
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42603-K",
+                "planned": 0,
+                "esttimeup": "16/08 06:02pm",
+                "timeup": "16/08 04:15pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "16/08 03:45pm",
+                "streets": "School Road",
+                "maxnumberoff": 8,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Line fault",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Yaldhurst",
+                "popup": "INCD-42603-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.96542214514,
+                    -43.811729700332
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6554-M",
+                "planned": 1,
+                "esttimeup": "16/08 04:00pm",
+                "timeup": "16/08 01:14pm",
+                "alternatedate": "2023-08-17",
+                "timedown": "16/08 09:33am",
+                "streets": "Fleur Lane, Selwyn Avenue, Walnut Place",
+                "maxnumberoff": 36,
+                "numberoff": 0,
+                "comment": "High voltage alterations",
+                "cause": "Planned LV isolation: Reportable",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Akaroa",
+                "popup": "INCD-6554-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.67426311341,
+                    -43.532173064236
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6542-M",
+                "planned": 1,
+                "esttimeup": "16/08 04:00pm",
+                "timeup": "16/08 04:25pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "16/08 08:49am",
+                "streets": "Buckleys Road, McLean Street, Norwich Street",
+                "maxnumberoff": 27,
+                "numberoff": 0,
+                "comment": "High voltage alterations - Replace LV Panel",
+                "cause": "Planned LV isolation: Reportable",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Linwood",
+                "popup": "INCD-6542-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.19256628105,
+                    -43.654366838164
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6536-M",
+                "planned": 1,
+                "esttimeup": "16/08 04:00pm",
+                "timeup": "16/08 04:56pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "16/08 08:39am",
+                "streets": "Highfield Road",
+                "maxnumberoff": 6,
+                "numberoff": 0,
+                "comment": "High voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Norwood",
+                "popup": "INCD-6536-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.40762037851,
+                    -43.707816705825
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42660-K",
+                "planned": 0,
+                "esttimeup": "16/08 08:25pm",
+                "timeup": "16/08 05:35pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "16/08 05:07pm",
+                "streets": "The Lake Road",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Emergency repair",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Irwell",
+                "popup": "INCD-42660-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.54686243036,
+                    -43.357291921177
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42636-K",
+                "planned": 0,
+                "esttimeup": "1/01 12:00pm",
+                "timeup": "16/08 03:36pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "16/08 02:03pm",
+                "streets": "Glenthorne Station, Harper Road, Homestead Road, Intake Road",
+                "maxnumberoff": 29,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Line fault",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Lake Coleridge",
+                "popup": "INCD-42636-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.55276605319,
+                    -43.517337566402
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42672-K",
+                "planned": 0,
+                "esttimeup": "17/08 08:00am",
+                "timeup": "17/08 07:10am",
+                "alternatedate": "1970-01-01",
+                "timedown": "17/08 05:52am",
+                "streets": "Withells Road",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Asset failure",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Avonhead",
+                "popup": "INCD-42672-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.9115024277,
+                    -43.556520874825
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42681-K",
+                "planned": 1,
+                "esttimeup": "5/09 04:00pm",
+                "timeup": "5/09 04:00pm",
+                "alternatedate": "2023-09-25",
+                "timedown": "5/09 08:30am",
+                "streets": "Leaches Road, Rockwood Road",
+                "maxnumberoff": 27,
+                "numberoff": 0,
+                "comment": "Pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Glenroy, Hororata",
+                "popup": "INCD-42681-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59129497,
+                    -43.729645242886
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42675-K",
+                "planned": 0,
+                "esttimeup": "17/08 12:35pm",
+                "timeup": "17/08 10:01am",
+                "alternatedate": "1970-01-01",
+                "timedown": "17/08 07:37am",
+                "streets": "Christchurch Akaroa Road, Gold Valley Road, McQueens Valley Road, Millers Road, Streeters Road",
+                "maxnumberoff": 445,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Line fault",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Motukarara",
+                "popup": "INCD-42675-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62599740094,
+                    -43.457901988082
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42693-K",
+                "planned": 1,
+                "esttimeup": "5/09 03:00pm",
+                "timeup": "5/09 03:00pm",
+                "alternatedate": "2023-09-07",
+                "timedown": "5/09 09:00am",
+                "streets": "Main North Road",
+                "maxnumberoff": 12,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Belfast",
+                "popup": "INCD-42693-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64688174743,
+                    -43.694102785591
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42696-K",
+                "planned": 1,
+                "esttimeup": "5/09 04:00pm",
+                "timeup": "5/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "5/09 08:30am",
+                "streets": "Gebbies Pass Road",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "Pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Motukarara, Teddington",
+                "popup": "INCD-42696-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.45068661638,
+                    -43.604827560136
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41487-K",
+                "planned": 1,
+                "esttimeup": "17/08 12:00pm",
+                "timeup": "17/08 11:35am",
+                "alternatedate": "2023-08-18",
+                "timedown": "17/08 09:15am",
+                "streets": "Selwyn Road",
+                "maxnumberoff": 14,
+                "numberoff": 0,
+                "comment": "Pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Broadfield",
+                "popup": "INCD-41487-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.71723211334,
+                    -43.569357757334
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42705-K",
+                "planned": 1,
+                "esttimeup": "5/09 04:00pm",
+                "timeup": "5/09 04:00pm",
+                "alternatedate": "2023-09-06",
+                "timedown": "5/09 09:00am",
+                "streets": "Belleview Terrace, Major Hornbrook Road",
+                "maxnumberoff": 80,
+                "numberoff": 0,
+                "comment": "Pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Mt Pleasant",
+                "popup": "INCD-42705-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.65483882534,
+                    -43.643839607415
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6575-M",
+                "planned": 1,
+                "esttimeup": "28/09 04:00pm",
+                "timeup": "28/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "28/09 09:00am",
+                "streets": "Governors Bay-Teddington Road",
+                "maxnumberoff": 2,
+                "numberoff": 0,
+                "comment": "Rescheduled to Thursday 28-09-2023 due to ground conditions.",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Teddington",
+                "popup": "INCD-6575-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.38249357077,
+                    -43.595727548501
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41007-K",
+                "planned": 1,
+                "esttimeup": "17/08 04:00pm",
+                "timeup": "17/08 01:23pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "17/08 09:27am",
+                "streets": "Tennyson Street",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Rolleston",
+                "popup": "INCD-41007-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.59462725649,
+                    -43.518673202026
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41202-K",
+                "planned": 1,
+                "esttimeup": "17/08 04:00pm",
+                "timeup": "17/08 01:30pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "17/08 09:15am",
+                "streets": "Glandovey Road",
+                "maxnumberoff": 23,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Fendalton",
+                "popup": "INCD-41202-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.65066551429,
+                    -43.553011209955
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41211-K",
+                "planned": 1,
+                "esttimeup": "17/08 05:00pm",
+                "timeup": "17/08 12:40pm",
+                "alternatedate": "2023-08-22",
+                "timedown": "17/08 08:45am",
+                "streets": "Rogers Street",
+                "maxnumberoff": 2,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Sydenham",
+                "popup": "INCD-41211-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.45882928926,
+                    -43.561754534162
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42732-K",
+                "planned": 1,
+                "esttimeup": "22/08 04:30pm",
+                "timeup": "22/08 04:30pm",
+                "alternatedate": "2023-08-23",
+                "timedown": "22/08 08:30am",
+                "streets": "Dawsons Road, Waterholes Road",
+                "maxnumberoff": 4,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Templeton",
+                "popup": "INCD-42732-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.91694496808,
+                    -43.522924047528
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42726-K",
+                "planned": 1,
+                "esttimeup": "6/09 04:00pm",
+                "timeup": "6/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "6/09 08:30am",
+                "streets": "Maffeys Road",
+                "maxnumberoff": 6,
+                "numberoff": 0,
+                "comment": "Pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Hororata",
+                "popup": "INCD-42726-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64628086882,
+                    -43.553357897129
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41199-K",
+                "planned": 1,
+                "esttimeup": "17/08 05:00pm",
+                "timeup": "17/08 01:06pm",
+                "alternatedate": "2023-08-22",
+                "timedown": "17/08 08:40am",
+                "streets": "Rogers Street",
+                "maxnumberoff": 6,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Sydenham",
+                "popup": "INCD-41199-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.78320894044,
+                    -43.773560146083
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42738-K",
+                "planned": 1,
+                "esttimeup": "1/09 04:00pm",
+                "timeup": "1/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "1/09 09:00am",
+                "streets": "Morrisons Road",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Little River",
+                "popup": "INCD-42738-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64628086882,
+                    -43.553357897129
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41193-K",
+                "planned": 1,
+                "esttimeup": "17/08 05:00pm",
+                "timeup": "17/08 02:40pm",
+                "alternatedate": "2023-08-22",
+                "timedown": "17/08 08:55am",
+                "streets": "Gibbon Street",
+                "maxnumberoff": 2,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Sydenham",
+                "popup": "INCD-41193-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6401265503,
+                    -43.453616229657
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41622-K",
+                "planned": 1,
+                "esttimeup": "17/08 04:30pm",
+                "timeup": "17/08 02:53pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "17/08 08:30am",
+                "streets": "Atawhai Lane, Belfast Road",
+                "maxnumberoff": 23,
+                "numberoff": 0,
+                "comment": "High voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Belfast",
+                "popup": "INCD-41622-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6401265503,
+                    -43.453616229657
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42498-K",
+                "planned": 1,
+                "esttimeup": "17/08 04:00pm",
+                "timeup": "17/08 02:57pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "17/08 08:45am",
+                "streets": "Atawhai Lane, Belfast Road",
+                "maxnumberoff": 23,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Belfast",
+                "popup": "INCD-42498-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.14806125551,
+                    -43.66034660466
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6557-M",
+                "planned": 1,
+                "esttimeup": "17/08 04:00pm",
+                "timeup": "17/08 03:22pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "17/08 08:33am",
+                "streets": "Hororata Dunsandel Road, Old South Road, Wrights Road",
+                "maxnumberoff": 10,
+                "numberoff": 0,
+                "comment": "High voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Dunsandel",
+                "popup": "INCD-6557-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.95867930146,
+                    -43.745107899708
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41499-K",
+                "planned": 1,
+                "esttimeup": "17/08 02:30pm",
+                "timeup": "17/08 02:30pm",
+                "alternatedate": "2023-08-29",
+                "timedown": "17/08 09:00am",
+                "streets": "Back Road, Big Hill Road, Boleyns Road, Chorlton Road, Knapps Road, Okains Bay Road, Pipers Valley Road, River Road, School House Road, Seftons Road",
+                "maxnumberoff": 103,
+                "numberoff": 0,
+                "comment": "ABI removal",
+                "cause": "Planned isolation",
+                "jobstatus": "Use alternate date",
+                "current": 1,
+                "area": "Akaroa, Chorlton, Duvauchelle, Little Akaloa, Okains Bay",
+                "popup": "INCD-41499-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.87118623145,
+                    -43.559389379891
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42702-K",
+                "planned": 0,
+                "esttimeup": "17/08 07:20pm",
+                "timeup": "17/08 04:30pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "17/08 02:40pm",
+                "streets": "Rockwood Road",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Line fault",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Glenroy, Hororata",
+                "popup": "INCD-42702-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.62589772894,
+                    -43.526154276679
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41496-K",
+                "planned": 1,
+                "esttimeup": "17/08 04:30pm",
+                "timeup": "17/08 06:41pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "17/08 07:05am",
+                "streets": "Park Terrace",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "High voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "City",
+                "popup": "INCD-41496-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.73683484259,
+                    -43.529650940465
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42756-K",
+                "planned": 1,
+                "esttimeup": "27/09 04:00pm",
+                "timeup": "27/09 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "27/09 08:30am",
+                "streets": "Estuary Road, Marine Parade, Pine Avenue, Sandra Street",
+                "maxnumberoff": 98,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "South New Brighton",
+                "popup": "INCD-42756-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.38051729026,
+                    -43.630157522085
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41265-K",
+                "planned": 1,
+                "esttimeup": "18/08 12:00pm",
+                "timeup": "18/08 10:18am",
+                "alternatedate": "2023-08-22",
+                "timedown": "18/08 09:05am",
+                "streets": "Sanders Way, Westmoor Boulevard",
+                "maxnumberoff": 4,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Rolleston",
+                "popup": "INCD-41265-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.52957880703,
+                    -43.475950846269
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6572-M",
+                "planned": 1,
+                "esttimeup": "18/08 06:00pm",
+                "timeup": "18/08 11:56am",
+                "alternatedate": "1970-01-01",
+                "timedown": "18/08 07:35am",
+                "streets": "McLeans Island Road",
+                "maxnumberoff": 4,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Harewood",
+                "popup": "INCD-6572-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.07686167248,
+                    -43.412800062872
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6644-M",
+                "planned": 1,
+                "esttimeup": "4/09 04:30pm",
+                "timeup": "4/09 04:30pm",
+                "alternatedate": "2023-09-05",
+                "timedown": "4/09 08:30am",
+                "streets": "High Street, Minchins Road, Old West Coast Road, Rupert Street, Tramway Road, Waddington Road",
+                "maxnumberoff": 52,
+                "numberoff": 0,
+                "comment": "Re-scheduled by contractor. Tree topping and removal.",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Darfield, Sheffield, Waddington",
+                "popup": "INCD-6644-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.64036236683,
+                    -43.472219957314
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41478-K",
+                "planned": 1,
+                "esttimeup": "18/08 03:00pm",
+                "timeup": "18/08 12:30pm",
+                "alternatedate": "2023-08-21",
+                "timedown": "18/08 09:00am",
+                "streets": "Burkett Street, Cartvale Drive",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "Livening new subdivision",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Marshland",
+                "popup": "INCD-41478-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.40779013051,
+                    -43.60727860812
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42771-K",
+                "planned": 1,
+                "esttimeup": "31/08 04:00pm",
+                "timeup": "31/08 04:00pm",
+                "alternatedate": "2023-09-01",
+                "timedown": "31/08 09:00am",
+                "streets": "Flight Close",
+                "maxnumberoff": 6,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Rolleston",
+                "popup": "INCD-42771-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.4001552481,
+                    -43.601224055934
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41262-K",
+                "planned": 1,
+                "esttimeup": "18/08 03:00pm",
+                "timeup": "18/08 01:00pm",
+                "alternatedate": "2023-08-22",
+                "timedown": "18/08 12:05pm",
+                "streets": "Lincoln Rolleston Road, Reuben Avenue, Seckles Lane",
+                "maxnumberoff": 5,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Rolleston",
+                "popup": "INCD-41262-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.11526385608,
+                    -43.419514741237
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-15802-L",
+                "planned": 0,
+                "esttimeup": "18/08 03:36pm",
+                "timeup": "18/08 12:59pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "18/08 11:30am",
+                "streets": "Bleak House Road",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Line fault",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Darfield",
+                "popup": "INCD-15802-L"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.15974022128,
+                    -43.57964860549
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6563-M",
+                "planned": 1,
+                "esttimeup": "18/08 04:00pm",
+                "timeup": "18/08 12:50pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "18/08 09:00am",
+                "streets": "Clintons Road, Courtenay Road, Stranges Road, Telegraph Road",
+                "maxnumberoff": 44,
+                "numberoff": 0,
+                "comment": "pole replacement & new transformer site",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Charing Cross, Courtenay, Greendale, Kirwee, Norwood",
+                "popup": "INCD-6563-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.56812160215,
+                    -43.510301238001
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-40998-K",
+                "planned": 1,
+                "esttimeup": "17/08 04:00pm",
+                "timeup": "18/08 12:53pm",
+                "alternatedate": "2023-08-18",
+                "timedown": "18/08 09:02am",
+                "streets": "Bullock Place, Burrows Place, Raxworthy Street",
+                "maxnumberoff": 11,
+                "numberoff": 0,
+                "comment": "USE ALT DATE. Rains held up excavation works",
+                "cause": "Planned isolation",
+                "jobstatus": "Use alternate date",
+                "current": -1,
+                "area": "Avonhead, Ilam",
+                "popup": "INCD-40998-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63734692741,
+                    -43.562901372088
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41259-K",
+                "planned": 1,
+                "esttimeup": "18/08 03:00pm",
+                "timeup": "18/08 01:15pm",
+                "alternatedate": "2023-08-22",
+                "timedown": "18/08 09:01am",
+                "streets": "Colombo Street",
+                "maxnumberoff": 13,
+                "numberoff": 0,
+                "comment": "Low voltage maintenance",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Beckenham",
+                "popup": "INCD-41259-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.71127080653,
+                    -43.48214566434
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-41178-K",
+                "planned": 1,
+                "esttimeup": "18/08 03:00pm",
+                "timeup": "18/08 12:38pm",
+                "alternatedate": "2023-08-22",
+                "timedown": "18/08 09:06am",
+                "streets": "Hurst Place, Queenspark Drive",
+                "maxnumberoff": 25,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Parklands",
+                "popup": "INCD-41178-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.07012505482,
+                    -43.439758530408
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6473-M",
+                "planned": 1,
+                "esttimeup": "18/08 04:00pm",
+                "timeup": "18/08 01:15pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "18/08 09:00am",
+                "streets": "Auchenflower Road",
+                "maxnumberoff": 1,
+                "numberoff": 0,
+                "comment": "FYI Isolation for works - notified by contractor",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Darfield",
+                "popup": "INCD-6473-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.18803551726,
+                    -43.578250340809
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6560-M",
+                "planned": 1,
+                "esttimeup": "18/08 04:00pm",
+                "timeup": "18/08 01:49pm",
+                "alternatedate": "2023-08-21",
+                "timedown": "18/08 09:19am",
+                "streets": "Midhurst Road, Telegraph Road",
+                "maxnumberoff": 10,
+                "numberoff": 0,
+                "comment": "Pole replacement",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Aylesbury, Charing Cross, Norwood",
+                "popup": "INCD-6560-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.65419147522,
+                    -43.507946685173
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6452-M",
+                "planned": 1,
+                "esttimeup": "18/08 04:00pm",
+                "timeup": "18/08 01:48pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "18/08 09:02am",
+                "streets": "Shirley Road",
+                "maxnumberoff": 6,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Shirley",
+                "popup": "INCD-6452-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.55312642553,
+                    -43.522156251704
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42786-K",
+                "planned": 1,
+                "esttimeup": "19/09 05:00pm",
+                "timeup": "19/09 05:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "19/09 08:30am",
+                "streets": "Camberwell Place, Harrowdale Drive, Hillcrest Place, Toorak Avenue",
+                "maxnumberoff": 53,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned LV isolation: Reportable",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Avonhead",
+                "popup": "INCD-42786-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.37013014308,
+                    -43.577831910084
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42789-K",
+                "planned": 1,
+                "esttimeup": "7/09 03:00pm",
+                "timeup": "7/09 03:00pm",
+                "alternatedate": "2023-09-11",
+                "timedown": "7/09 09:00am",
+                "streets": "Cockburn Lane, Pereita Drive",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "Low voltage alterations",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": 1,
+                "area": "Rolleston",
+                "popup": "INCD-42789-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.39472668584,
+                    -43.522237816086
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42795-K",
+                "planned": 1,
+                "esttimeup": "24/08 04:00pm",
+                "timeup": "24/08 04:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "24/08 08:30am",
+                "streets": "Lawford Road, West Coast Road",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "Replace 11kV Poles. Orion to notify",
+                "cause": "Line fault",
+                "jobstatus": null,
+                "current": 1,
+                "area": "West Melton",
+                "popup": "INCD-42795-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.34895458107,
+                    -43.50160071821
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42798-K",
+                "planned": 1,
+                "esttimeup": "23/08 03:00pm",
+                "timeup": "23/08 03:00pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "23/08 09:00am",
+                "streets": "Bells Road",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "Replace 11kV Pole. Orion to notify",
+                "cause": "Line fault",
+                "jobstatus": null,
+                "current": 1,
+                "area": "West Melton",
+                "popup": "INCD-42798-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.09588804071,
+                    -43.460603029991
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42774-K",
+                "planned": 0,
+                "esttimeup": "18/08 10:38pm",
+                "timeup": "18/08 07:38pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "18/08 05:33pm",
+                "streets": "Loes Road",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Transformer fault",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Darfield",
+                "popup": "INCD-42774-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.34550723255,
+                    -43.508118130522
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-15670-L",
+                "planned": 0,
+                "esttimeup": "19/08 03:00pm",
+                "timeup": "19/08 12:26pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "19/08 08:59am",
+                "streets": "Halkett Road",
+                "maxnumberoff": 3,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Pole failure",
+                "jobstatus": null,
+                "current": -1,
+                "area": "West Melton",
+                "popup": "INCD-15670-L"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.63487883919,
+                    -43.534854395201
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-6566-M",
+                "planned": 1,
+                "esttimeup": "19/08 09:00am",
+                "timeup": "19/08 09:16am",
+                "alternatedate": "1970-01-01",
+                "timedown": "19/08 07:15am",
+                "streets": "Tuam Street",
+                "maxnumberoff": 2,
+                "numberoff": 0,
+                "comment": "FYI Isolation requested by customer-generator test",
+                "cause": "Planned isolation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "City",
+                "popup": "INCD-6566-M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.70269527964,
+                    -43.485896498878
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42828-K",
+                "planned": 0,
+                "esttimeup": "20/08 05:14pm",
+                "timeup": "19/08 01:35pm",
+                "alternatedate": "1970-01-01",
+                "timedown": "19/08 12:37pm",
+                "streets": "Aberfoyle Place, Arden Place, Ascot Avenue, Ashwood Street, Aspen Place, Beach Road, Betula Place, Branksome Place, Brentwood Street, Broadhaven Avenue, Chadbury Street, Cottonwood Street, Donnington Street, Elder Place, Farnley Place, Ferngrove Place, Fieldmoor Place, Four Elms Place, Heathglen Avenue, Ingrid Street, Inwoods Road, Jacaranda Place, Mairehau Road, Parkwood Place, Pinaster Place, Portnall Place, Queenspark Drive, Radiata Avenue, Royal Park Drive, Sophora Place, Tapiri Street",
+                "maxnumberoff": 870,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Cable fault",
+                "jobstatus": null,
+                "current": -1,
+                "area": "North New Brighton, Parklands, Queenspark",
+                "popup": "INCD-42828-K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.54686243036,
+                    -43.357291921177
+                ]
+            },
+            "properties": {
+                "feature": "poweroutage",
+                "ref": "INCD-42864-K",
+                "planned": 0,
+                "esttimeup": "20/08 02:19pm",
+                "timeup": "20/08 11:03am",
+                "alternatedate": "1970-01-01",
+                "timedown": "20/08 11:03am",
+                "streets": "",
+                "maxnumberoff": 29,
+                "numberoff": 0,
+                "comment": "",
+                "cause": "Under Investigation",
+                "jobstatus": null,
+                "current": -1,
+                "area": "Coleridge GXP",
+                "popup": "INCD-42864-K"
+            }
+        }
+    ]
+}

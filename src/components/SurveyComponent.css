@@ -1,0 +1,64 @@
+/* SurveyFormContainer.css */
+.main {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container label {
+    margin-bottom: 5px;
+    margin-top: 8px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.form-container input[type="text"],
+.form-container select,
+.form-container input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px; /* Adjust vertical space between fields */
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.form-container {
+    background-color: #ffffff;
+    margin-top: 8px;
+    margin-bottom: 30%;
+    padding: 30px 80px;
+    text-align: left;
+    border-radius: 10px;
+    align-items: flex-start;
+}
+
+.submitBtn {
+    text-align: right;
+}
+
+.submitBtn input[type="submit"] {
+    padding: 5px 20px;
+    background-color: #4287f5;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px 0px;
+}
+
+.error-message {
+    color: red;
+}
+
+.description{
+    height:10vh;
+}

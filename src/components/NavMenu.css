@@ -1,0 +1,59 @@
+.navSection {
+  display: flex;
+  width: auto;
+  /* align-items: center; */
+  justify-content: space-between;
+  background: 	#3A75AF;
+  z-index: 1;
+  margin-top: 15px;
+  height: 67px;
+  /* position: fixed; */
+  padding: 15px;
+  margin-top: -8px;
+  padding-right: 15px;
+}
+
+.logo-img{
+  height : 70px
+}
+
+.companyTitle {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 300;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.logoSection{
+  align-self: center;
+  color: #ffffff;
+}
+
+.menuItemsBox {
+  display: inline-flexbox;
+  align-self: flex-end;
+}
+
+.menuItems {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  text-decoration: none;
+  color: #ffffff;
+  padding: 20px;
+  text-align: left;
+  font-family: system-ui;
+  font-weight: 550;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+}
+
+.menuItems:hover {
+  color: #000000;
+}
